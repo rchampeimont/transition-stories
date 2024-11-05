@@ -4,6 +4,7 @@ Par River Champeimont, 2 septembre 2024
 Voici un petit article pour vous donner quelques nouvelles de ma transition.
 
 ![Moi au Stonewall National Monument, New York City](transition_news_images/stonewall.jpg)
+
 Moi au Stonewall National Monument, New York City
 
 ## Résumé des épisodes précédents
@@ -21,6 +22,7 @@ Au passage, je suis vraiment désolée pour les personnes trans qui me lisent et
 Tous les effets causés par la HRT m’ont rendu extrêmement heureuse. Au début j’étais un peu inquiète, en me disant que peut-être qu’il y a certains effets que je n’allais pas aimer et qui allaient me mettre mal à l’aise, comme le fait de développer des seins qui est sûrement l’effet le plus radical. Au début, c’était un peu surprenant, mais aujourd’hui, quand je compare des photos de mon corps avant transition avec maintenant, je me demande comment j’ai pu accepter de ressembler à ça. J’ai maintenant plein de photos où je me trouve jolie, ce qui était exceptionnel pré-transition (à quelques exceptions près quand je m’habillais de manière très androgyne, voir la photo ci-dessous par exemple).
 
 ![Une des rares photos pré-transition où j’aimais mon apparence sans en comprendre la raison.](transition_news_images/illusions.jpg)
+
 Une des rares photos pré-transition où j’aimais mon apparence sans en comprendre la raison.
 
 ## Les espaces genrés
@@ -35,7 +37,8 @@ La réalité, c’est que pour les femmes trans qui transitionnent après leur p
 
 En gros, pour les femmes trans en début de transition comme moi, si on ne met pas de maquillage ou des habits typiquement féminins, les gens vont nous « voir » comme des hommes. Du coup, pour compenser, on est obligés d’en « faire un peu trop » par rapport à ce que les femmes cis (= non-trans) feraient habituellement. Voir par exemple les 2 photos de moi ci-dessous, avant maquillage, et après maquillage dans ma tenue de travail. Cette comparaison pourrait d’ailleurs être une expérience pour tester ma dysphorie de genre, que je ressens immédiatement de manière très forte en regardant la photo de gauche mais pas celle de droite.
 
-![Au saut du lit vs. prête à partir au travail](transition_news_images/comparaison.jpg)
+![Au saut du lit vs. prête à partir au travail](transition_news_images/comparison.jpg)
+
 Au saut du lit vs. prête à partir au travail
 
 ## Autres étapes importantes
@@ -50,6 +53,7 @@ Lors de ma transition, j’ai accompli un certain nombre de petites et grosses �
 * Aller dans un spa (avec des espaces genrés) en tant que femme
 
 ![Ma tenue de travail post-transition](transition_news_images/work_outfit.jpg)
+
 Ma tenue de travail post-transition
 
 ## Étapes suivantes
