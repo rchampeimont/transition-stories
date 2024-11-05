@@ -1,4 +1,4 @@
-By River Champeimont, Marcg 31st, 2024
+By River Champeimont, March 31st, 2024
 
 # I’m changing my name
 
