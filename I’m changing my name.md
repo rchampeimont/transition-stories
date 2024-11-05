@@ -4,6 +4,8 @@ By River Champeimont, March 31st, 2024
 
 I’m changing my name from Raphaël to River. Why?
 
+![An AI-generated river with mulitple colors](new_name_images/river.png "An AI-generated river with mulitple colors")
+
 This article is going to be quite simple. It’s basically just an announcement that you might see the name “River” show up in different places.
 
 As a lot of you probably already know, I recently wrote an article about my discovery that I was non-binary. It’s now been a while since I made this discovery (even though I told the story in my blog only recently) but so far I have kept my birth name.
