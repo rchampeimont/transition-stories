@@ -2,9 +2,9 @@ Par River Champeimont, 26 mai 2024
 
 # “Félicitations ! Vous êtes une fille !”
 
-![Une photo de moi dans un parc à Vancouver](youre_a_girl_images/vancouver.jpg "Une photo de moi dans un parc à Vancouver")
-
 En réfléchissant à mon identité, j'ai découvert que j'étais en fait une femme trans.
+
+![Une photo de moi dans un parc à Vancouver](youre_a_girl_images/vancouver.jpg "Une photo de moi dans un parc à Vancouver")
 
 Dans mon article précédent, « Waking Up Non-Binary » (en anglais), j'avais parlé de ma découverte et de mon acceptation de mon identité en tant que personne transgenre non-binaire. À ce moment-là, j'étais certaine de ma transidentité (le fait d’être transgenre) mais j'avais encore des doutes concernant la nature exacte de mon genre, à savoir si j’étais non-binaire ou une femme trans (voir cette vidéo si vous voulez en savoir plus sur la non-binarité).
 
