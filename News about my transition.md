@@ -4,6 +4,7 @@ By River Champeimont, September 3rd, 2024
 Here is a short article to give you some news about my transition.
 
 ![Me at the Stonewall National Monument, New York City](transition_news_images/stonewall.jpg)
+
 Me at the Stonewall National Monument, New York City
 
 ## Summary of previous episodes
@@ -21,6 +22,7 @@ By the way, I'm really sorry for the trans people reading this who are thinking 
 All the effects caused by HRT made me extremely happy. At first I was a little worried, thinking that maybe there were certain effects that I wouldn't like and that would make me uncomfortable, like developing breasts (which is surely the most radical effect). At first it was a little surprising, but today, when I compare pictures of my body pre-transition and now, I wonder how I could tolerate to look like that back then. I now have plenty of pictures where I feel I look good, which was exceptional before transition (with a few exceptions when I dressed very androgynously, see the picture below for example).
 
 ![One of the rare pre-transition pictures where I liked the way I looked without understanding why.](transition_news_images/illusions.jpg)
+
 One of the rare pre-transition pictures where I liked the way I looked without understanding why.
 
 ## Gendered spaces
@@ -35,7 +37,8 @@ The reality is that for trans women who transition after puberty like me, our bo
 
 Basically, for trans women at the beginning of their transition like me, if we don't wear makeup or typically feminine clothes, people will “see” us as men. As a result, to compensate, we are forced to “do a little too much” compared to what cisgender women would usually do. See for example the 2 photos of me below, before makeup, and after makeup in my work outfit. This comparison could also be an experiment to test my gender dysphoria, which I immediately feel very strongly when looking at the picture on the left but not the one on the right.
 
-![Getting out of bed vs. ready to go to work](transition_news_images/comparaison.jpg)
+![Getting out of bed vs. ready to go to work](transition_news_images/comparison.jpg)
+
 Getting out of bed vs. ready to go to work
 
 ## Other important steps
@@ -50,6 +53,7 @@ Getting out of bed vs. ready to go to work
 * Going to a spa (with gendered spaces) as a woman
 
 ![My post-transition work outfit](transition_news_images/work_outfit.jpg)
+
 My post-transition work outfit
 
 ## Next steps
