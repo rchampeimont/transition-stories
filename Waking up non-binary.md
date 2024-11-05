@@ -37,6 +37,10 @@ So how did I finally figure it out? I am embarrassed to say that it’s not beca
 
 What happened is much simpler: I met non-binary people. Initially, I was skeptical of the concept, I thought it was not something “real”, like maybe it was just a fashionable idea in North America and people liked being non-conforming. Also, I thought “Come on, if just being like that makes you non-binary, then I could claim I’m non-binary too because I do all those things, even though I’m not a non-binary person”. Of course, I missed the other logical alternative: I am like them because I am non-binary too!
 
+![An avatar drawn for me by a genderless friend](waking_up_images/enby_avatar.png)
+
+An avatar drawn for me by a genderless friend
+
 ## The Wizard of Gender
 One of the amazing resources that helped me with my final epiphany was the website “Turn me into a non-binary person” which is a variant of the original “Turn me into a girl”. The fundamental idea here is that if you have a very strong desire to be non-binary (or a girl in the other variant), then it means you already are one!
 The serious point here is that cis (= non-trans) people don’t have a super strong desire to be non-binary or the other gender, if any desire at all.
