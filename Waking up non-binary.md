@@ -51,4 +51,4 @@ But in fact, I’m really 100% certain that I’m trans. However, there may stil
 
 I don’t know if I’ll write new articles about this in the future. Some trans folx love talking about their transition (changing pronouns, legal documents, hormones, etc.) and I’m thankful to them for creating these resources* because it helps other trans people a lot!
 
-* For instance, you can watch YouTube videos from channels Hannah Phillips or The Chloe Connection.
+\* For instance, you can watch YouTube videos from channels Hannah Phillips or The Chloe Connection.
