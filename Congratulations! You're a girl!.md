@@ -4,6 +4,8 @@ By River Champeimont, May 26th, 2024
 
 Reflecting on my identity, I discovered I was a trans woman after all.
 
+![A picture of me in a park in Vancouver](youre_a_girl_images/vancouver.jpg "A picture of me in a park in Vancouver")
+
 In my previous article, “Waking Up Non-Binary”, I shared my journey of discovering and embracing my identity as a transgender non-binary person. At that time, I was certain of my trans identity but still had lingering doubts about whether I was non-binary or a trans woman. Those doubts have now been resolved, and I've come to understand that I identify as a trans woman. Here’s how I got here.
 
 ## The Journey of Self-Discovery
