@@ -3,6 +3,8 @@ By River Champeimont, February 17th, 2024.
 # Waking up non-binary
 Last year, I discovered I was a transgender non-binary person. Here is what happened.
 
+![Me with an androgynous look, years before transitioning](waking_up_images/androgynous.jpg "Me with an androgynous look, years before transitioning")
+
 ## What’s non-binary?
 To say things simply, I am “half a trans woman”. Just like a trans woman, I am AMAB (assigned male at birth, basically someone born with a penis), but unlike a trans woman, I identify only partially as a woman. There are other ways to be non-binary (or “enby”, as people in the community say), but the general definition is anyone who does not fully identify with one of the 2 “usual” (= binary) genders.
 
