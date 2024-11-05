@@ -1,4 +1,4 @@
-By River Champeimont, Feb 17th, 2024.
+By River Champeimont, February 17th, 2024.
 
 # Waking up non-binary
 Last year, I discovered I was a transgender non-binary person. Here is what happened.
