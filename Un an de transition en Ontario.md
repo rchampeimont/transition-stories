@@ -2,7 +2,7 @@ Par River Champeimont, le 9 novembre 2024
 
 # Un an de transition en Ontario, Canada
 
-Cela fait maintenant un an que j'ai entamé ma transition, et je me sens incroyablement chanceuse d'être de ce côté-ci de la frontière. Avec tout ce qui se passe ailleurs, je suis reconnaissante pour l'environnement favorable que l'Ontario offre aux personnes trans. **Vivre ici a fait toute la différence.**
+Cela fait maintenant un an que j'ai entamé ma transition, et je me sens incroyablement chanceuse d'être de ce côté-ci de la frontière. Avec tout ce qui se passe ailleurs, je suis reconnaissante pour l'environnement favorable que l'Ontario offre aux personnes trans. Vivre ici a fait toute la différence.
 
 ---
 
