@@ -44,6 +44,6 @@ Déménager dans un endroit où je me sentais en sécurité pour explorer ce cô
 
 ## Vers l'avenir
 
-Avec ces étapes accomplies, je suis plus enthousiaste que jamais pour l'avenir. **Avoir une identité légale, des soins de santé et un environnement favorable** qui sont en accord avec qui je suis a fait une énorme différence. Vivre en Ontario, avec ses politiques inclusives, me fait me sentir en sécurité et reconnue.
+Avec ces étapes accomplies, je suis plus enthousiaste que jamais pour l'avenir. Avoir une identité légale, des soins de santé et un environnement favorable qui sont en accord avec qui je suis a fait une énorme différence. Vivre en Ontario, avec ses politiques inclusives, me fait me sentir en sécurité et reconnue.
 
 Je sais que tout le monde n'a pas ce privilège, mais j'espère qu'en partageant mon expérience, je pourrai montrer comment des politiques progressistes font une réelle différence pour les personnes trans et contribuent à un monde plus sûr et plus inclusif.
