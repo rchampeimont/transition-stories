@@ -10,7 +10,7 @@ Chaque jour de ta vie, tu as marché un peu plus loin le long de la rivière, da
 
 ![Un garçon marche pieds nus le long d'un ruisseau sinueux entouré d'une végétation luxuriante et d'un arbre, avec une eau calme s'écoulant doucement sur des rochers.](the_river/river2.jpg)
 
-Alors tu as continué à marcher le long du même côté de la rivière pendant des années. Et un jour, tu te rends compte qu'en fait tu es du mauvais côté. Tu regardes la rivière, mais c'est maintenant devenu un fleuve.
+Alors tu as continué à marcher le long de la rivière pendant des années. Et un jour, tu te rends compte qu'en fait tu es du mauvais côté. Tu regardes la rivière, mais c'est maintenant devenu un fleuve.
 
 ![Un homme aux cheveux longs se tient près d'une large rivière sinueuse, entouré d'une plaine herbeuse ouverte et de montagnes lointaines sous un ciel calme.](the_river/river3.jpg)
 
