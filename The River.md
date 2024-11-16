@@ -2,7 +2,9 @@ By River Champeimont, November 16th, 2024
 
 This is a micro-article about an extra reason why I chose “River” as my name.
 
-Every day of your life, you've walked a bit farther along the river, following the current. As a kid you were always curious about the river.
+Every day of your life, you've walked a bit farther along the river, following the current.
+
+As a kid you were always curious about the river.
 
 ![A boy crouches by a winding stream in a sandy, rock-dotted landscape, gazing at the water.](the_river/river1.jpg)
 
@@ -10,7 +12,9 @@ It would have been easy to cross the river at the beginning, as it was only a sm
 
 ![A boy walks barefoot along a winding stream surrounded by lush greenery and a tree, with calm water flowing gently over rocks.](the_river/river2.jpg)
 
-So, you kept walking along the river for decades. And one day, you realize you’re on the wrong side. But now, the river has become a wide, rushing body of water, and the other bank is far away.
+So, you kept walking along the river for decades. And one day, you realize you’re on the wrong side.
+
+But now, the river has become a wide, rushing body of water, and the other bank is far away.
 
 ![A man with long hair stands by a wide, winding river, surrounded by an open, grassy plain and distant mountains under a calm sky.](the_river/river3.jpg)
 
