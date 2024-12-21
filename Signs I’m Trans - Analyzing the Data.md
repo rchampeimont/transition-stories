@@ -2,6 +2,8 @@
 
 By River Champeimont, December 19th, 2024
 
+![The text "trans gender signs" written with the trans flag colors](trans_signs/title%20image.png)
+
 When I look back at my life, I realize there were countless signs that pointed to me being transgender. Some were subtle, others more obvious once I looked back on them. Yet, for much of my life, I either ignored or rationalized them away. Now that I’ve embraced my identity as a trans woman, I can see how all these moments formed a larger picture—one that ultimately led me to live authentically. Here are some reflections on what I discovered.
 
 ## From Rationalization to Realization
@@ -35,13 +37,11 @@ Signs Across Time
 
 One fascinating aspect of this journey is how the signs were distributed across my life. From early childhood moments, such as wanting to be a girl in primary school, to more recent realizations like my deep interest in the effects of HRT, the signs spanned decades.
 
-Insert histogram here
-
-Alternative text for blind readers: The histogram illustrates the distribution of 53 signs across time, starting from 1988 through 2023. The x-axis represents the years, while the y-axis shows the number of signs identified per year. The bars are color-coded to represent three categories: green for signs categorized as general indicators of being trans (TA), purple for those pointing to being a trans woman (TW), and yellow for those suggesting a non-binary identity (NB). Key clusters are evident in the 2015-2023 period, highlighting intense moments of self-discovery and identity exploration.
+![The histogram illustrates the distribution of 53 signs across time, starting from 1988 through 2023. The x-axis represents the years, while the y-axis shows the number of signs identified per year. The bars are color-coded to represent three categories: green for signs categorized as general indicators of being trans (TA), purple for those pointing to being a trans woman (TW), and yellow for those suggesting a non-binary identity (NB). Key clusters are evident in the 2015-2023 period, highlighting intense moments of self-discovery and identity exploration.](trans_signs/histogram.png)
 
 The timeline shows clusters of signs during key periods of exploration, such as my mid-30s, when I began actively questioning my identity. These clusters reflect how moments of self-discovery often build on one another.
 
-Embracing My Truth
+## Embracing My Truth
 
 Each of these moments, no matter how small, was a step toward self-discovery. While it took decades to piece them together, I’m grateful for every sign that nudged me closer to living authentically as a trans woman. Importantly, I didn’t recognize these signs as being trans at the time—they only made sense in retrospect after realizing I was trans. My journey has shown me that understanding your identity isn’t always linear, but every step matters.
 
