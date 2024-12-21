@@ -25,9 +25,9 @@ After realizing I was trans, I gradually cataloged 53 distinct signs that pointe
 ***Non-binary** describes someone whose gender identity isn’t strictly male or female. It’s part of the transgender spectrum but distinct from being a trans man or woman.
 
 Here’s the breakdown:
-* 29 signs suggested I was a trans woman (TW)
-* 18 signs were general indicators of being trans (TA)
-* 6 signs aligned more with being non-binary (NB)
+* **29 signs** suggested I was a trans woman (TW)
+* **18 signs** were general indicators of being trans (TA)
+* **6 signs** aligned more with being non-binary (NB)
 
 ![Pie chart showing the numbers above](trans_signs/pie%20chart.png)
 
