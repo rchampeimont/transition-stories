@@ -8,3 +8,6 @@ This a backup of my (gender) transition-related 🏳️‍⚧️ stories that ca
 5. [Transitioning in Ontario, Canada: One Year In](Transitioning%20in%20Ontario.md) / [Un an de transition en Ontario, Canada](Un%20an%20de%20transition%20en%20Ontario.md)
 6. [The River](The%20River.md) / [La rivière](La%20rivière.md)
 7. [Signs I’m Trans: Analyzing the Data!](Signs%20I’m%20Trans%20-%20Analyzing%20the%20Data.md) / [Les signes que je suis trans : une analyse des données](Les%20signes%20que%20je%20suis%20trans.md)
+
+
+Transition Stories © 2024 by River Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
