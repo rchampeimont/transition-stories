@@ -2,7 +2,7 @@
 
 By River Champeimont, December 19th, 2024
 
-![The text "trans gender signs" written with the trans flag colors](trans_signs/title%20image.png)
+![The text "trans gender signs" written with the trans flag colors](trans_signs/title%20image%20small.png)
 
 When I look back at my life, I realize there were countless signs that pointed to me being transgender. Some were subtle, others more obvious once I looked back on them. Yet, for much of my life, I either ignored or rationalized them away. Now that I’ve embraced my identity as a trans woman, I can see how all these moments formed a larger picture—one that ultimately led me to live authentically. Here are some reflections on what I discovered.
 
