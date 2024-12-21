@@ -33,7 +33,7 @@ Here’s the breakdown:
 
 While there are aspects of myself that align with non-binary experiences, which likely contributed to why I initially identified as non-binary, the dominance of signs pointing toward being a trans woman is undeniable. With 29 signs aligned with trans womanhood compared to just 6 pointing to non-binary identity, it became clear to me over time that I am a trans woman. This data reinforced my certainty and helped me embrace my identity with confidence.
 
-Signs Across Time
+## Signs Across Time
 
 One fascinating aspect of this journey is how the signs were distributed across my life. From early childhood moments, such as wanting to be a girl in primary school, to more recent realizations like my deep interest in the effects of HRT, the signs spanned decades.
 
