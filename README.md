@@ -6,4 +6,5 @@ This a backup of my (gender) transition-related 🏳️‍⚧️ stories that ca
 3. [Congratulations! You're a girl!](Congratulations!%20You're%20a%20girl!.md) / [Félicitations ! Vous êtes une fille !](Félicitations%20!%20Vous%20êtes%20une%20fille%20!.md)
 4. [News about my transition](News%20about%20my%20transition.md) / [Des nouvelles de ma transition](Des%20nouvelles%20de%20ma%20transition.md)
 5. [Transitioning in Ontario, Canada: One Year In](Transitioning%20in%20Ontario.md) / [Un an de transition en Ontario, Canada](Un%20an%20de%20transition%20en%20Ontario.md)
-5. [The River](The%20River.md) / [La rivière](La%20rivière.md)
+6. [The River](The%20River.md) / [La rivière](La%20rivière.md)
+7. [Signs I’m Trans: Analyzing the Data!](Signs%20I’m%20Trans%20-%20Analyzing%20the%20Data.md)
