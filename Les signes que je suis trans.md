@@ -31,7 +31,7 @@ Voici la répartition des signes :
 
 ![Camembert montrant la répartition dans les trois cagéories](trans_signs/camembert.png)
 
-Bien que certains signes aient pu indiquer une identité non binaire (6), on peut constater que la majorité des données (29 ) pointaient vers le fait que je suis une femme trans. En analysant ces données, il m’a été beaucoup plus facile de surmonter mon syndrome de l’imposteur et de prendre confiance en mon identité de genre.
+Bien que certains signes aient pu indiquer une identité non binaire (6), on peut constater que la majorité des données (29) pointaient vers le fait que je suis une femme trans. En analysant ces données, il m’a été beaucoup plus facile de surmonter mon syndrome de l’imposteur et de prendre confiance en mon identité de genre.
 
 ## Les signes au fil du temps
 
