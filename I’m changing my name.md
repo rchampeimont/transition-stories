@@ -2,7 +2,7 @@ By River Champeimont, March 31st, 2024
 
 # I’m changing my name
 
-I’m changing my name from Raphaël to River. Why?
+I’m changing my name to River. Why?
 
 ![An AI-generated river with mulitple colors](new_name_images/river.png "An AI-generated river with mulitple colors")
 
@@ -24,11 +24,6 @@ Binary trans folx then typically make a choice between these options, ordered by
 Non-binary people are a different case. Some of us want a name that does not carry gender assumptions at all. So, in the above options, the shortening trick (option 2) might be a good option. However, some non-binary people choose to go with a gendered name of the other gender than their birth sex, to nudge people in the other direction than their appearance for instance. In this case they could go with option 3 for instance.
 
 Also, it often happens that once you know you’re trans, it’s hard to know if you are non-binary or fully the other gender. It’s often easier to know that you’re trans than to know which “kind” of trans person you are. Some people transition to the other gender, then realize they don’t fully identify with it and are in fact non-binary (and this can be because they did not know first about the notion of being non-binary). In that case they might have a name of the other gender (for instance Robert changes to Lily and then discovers they are non-binary). The reverse also happens, transitioning to non-binary then entirely to the other gender.
-
-## How about me?
-My case is a bit special because I converse in both French and English. In French, “Raphaël” is pronounced the same as “Raphaëlle”, so it does not carry a gendered assumption orally. “Raph” in French can be short for either. However, in English the assumption is that “Raph” is the masculine “Raphael” only, not the feminine “Raphaela”, so it is not gender neutral.
-
-So to summarize, “Raph” doesn’t work for me because I live in an English-speaking part of the world now. That’s why I’m going with a completely new gender-neutral name: River.
 
 ## Why did I choose “River”?
 For some reason, I felt it was better that it starts by the same sound as my original name. I don’t know why I wanted that, but I then discovered a lot of other trans people feel the same way, for no apparent rational reason. There is one rational reason though, it lets me keep the same initials (RC) and whenever it’s written “R Champeimont” it still works (like in scientific articles).
