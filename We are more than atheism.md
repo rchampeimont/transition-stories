@@ -2,6 +2,8 @@ This is an article I originally wrote for the [HAT Newsletter](https://mailchi.m
 
 # We are more than atheism
 
+![Picture of me in January 2025](we_are_more_than_atheism/picture_of_River_Jan2025_small.jpg)
+
 _River Champeimont - January 23, 2025_
 
 My name is River and I’m a transgender woman. After a long part of my life living as a gender I was not and trying to “work around it” as much as I could, I finally understood I was trans and transitioned.
