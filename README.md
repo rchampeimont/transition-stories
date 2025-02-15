@@ -1,5 +1,5 @@
 # transition-stories
-This a backup of my (gender) transition-related 🏳️‍⚧️ stories that can be read on my blog https://www.thepurple.blog/ 💜
+This a backup of my transition-related 🏳️‍⚧️ stories that can be read on my blog https://www.thepurple.blog/ 💜
 
 1. [Waking up non-binary](Waking%20up%20non-binary.md)
 1. [I’m changing my name](I’m%20changing%20my%20name.md)
