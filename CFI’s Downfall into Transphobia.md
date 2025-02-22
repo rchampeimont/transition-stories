@@ -48,7 +48,7 @@ So here is the evolution:
 
 ![Chart showing shift in CFI's stance](CFI_analysis/histogram_evolution_over_time.png)
 
-As we can clearly see, there was a **supportive era before 2020**, during which no anti-trans articles were published. Then, a shift occurred, and CFI began publishing a significant number of anti-trans articles.
+As we can clearly see, there was a **supportive era before 2020**, during which _no_ anti-trans articles were published. Then, a shift occurred, and CFI began publishing a significant number of anti-trans articles.
 
 Another way to examine this change is by looking at the **“supportive era” before 2020**:
 
