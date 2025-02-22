@@ -1,14 +1,14 @@
 # CFI’s Downfall into Transphobia
 
-This article is about the **Center for Inquiry** (CFI), an American organization that, in theory, is dedicated to promoting humanism, skeptical thinking, science, and a rational worldview. It includes a small data analysis I conducted, showing how they have become increasingly anti-trans year after year.
+This article is about the Center for Inquiry, an American organization that, in theory, is dedicated to promoting humanism, skeptical thinking, science, and a rational worldview. It includes a small data analysis I conducted, showing how they have become increasingly anti-trans year after year.
 
 ## Context
 
 As a trans woman, one of the hardest parts of transitioning for me was realizing that many people I once admired are transphobic, spread misinformation about us, and actively work to take away our rights.
 
-Let’s go back to around 2006, when I was 19. I was on a trip to Scotland with my parents, and we visited a library because I wanted to buy the newly released *Harry Potter* book (probably *Harry Potter and the Half-Blood Prince*). But another book caught my attention—*The God Delusion* by Richard Dawkins. I already knew about Dawkins because I had recently read *The Selfish Gene* for a university biology assignment. At the time, I was an atheist with a fairly neutral view on religion, and I was immediately intrigued. I bought both books and enjoyed reading them.
+Let’s go back to around 2006, when I was 19. I was on a trip to Scotland with my parents, and we visited a library because I wanted to buy the newly released Harry Potter book (probably *Harry Potter and the Half-Blood Prince*). But another book caught my attention—*The God Delusion* by Richard Dawkins. I already knew about Dawkins because I had recently read *The Selfish Gene* for a university biology assignment. At the time, I was an atheist with a fairly neutral view on religion, and I was immediately intrigued. I bought both books and enjoyed reading them.
 
-Considering that the *Harry Potter* series frames the fight against purity and intolerance as a central theme, you might expect its author to stand firmly for trans rights—one of the most vilified minorities today. Similarly, you might assume that the author of a book condemning religious intolerance would be a strong advocate for LGBTQIA+ rights. **But not at all!** These two authors are among the most vocal opponents of trans rights [[1,2]](#references).
+Considering that the *Harry Potter* series frames the fight against purity and intolerance as a central theme, you might expect its author to stand firmly for trans rights—one of the most vilified minorities today. Similarly, you might assume that the author of a book condemning religious intolerance would be a strong advocate for LGBTQIA+ rights. But not at all! These two authors are among the most vocal opponents of trans rights [[1](https://en.wikipedia.org/wiki/Views_of_Richard_Dawkins#LGBT_issues), [2](https://en.wikipedia.org/wiki/J._K._Rowling#Transgender_people)].
 
 See also: [My article about Dawkins’ stance](We%20are%20more%20than%20atheism.md)
 
