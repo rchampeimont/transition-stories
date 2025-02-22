@@ -8,7 +8,7 @@ As a trans woman, one of the hardest parts of transitioning for me was realizing
 
 Let’s go back to around 2006, when I was 19. I was on a trip to Scotland with my parents, and we visited a library because I wanted to buy the newly released *Harry Potter* book (probably *Harry Potter and the Half-Blood Prince*). But another book caught my attention—*The God Delusion* by Richard Dawkins. I already knew about Dawkins because I had recently read *The Selfish Gene* for a university biology assignment. At the time, I was an atheist with a fairly neutral view on religion, and I was immediately intrigued. I bought both books and enjoyed reading them.
 
-Considering that the *Harry Potter* series frames the fight against purity and intolerance as a central theme, you might expect its author to stand firmly for trans rights—one of the most vilified minorities today. Similarly, you might assume that the author of a book condemning religious intolerance would be a strong advocate for LGBTQIA+ rights. **But not at all!** These two authors are among the most vocal opponents of trans rights [[1]](#references), [[2]](#references).
+Considering that the *Harry Potter* series frames the fight against purity and intolerance as a central theme, you might expect its author to stand firmly for trans rights—one of the most vilified minorities today. Similarly, you might assume that the author of a book condemning religious intolerance would be a strong advocate for LGBTQIA+ rights. **But not at all!** These two authors are among the most vocal opponents of trans rights [[1,2]](#references).
 
 See also: [My article about Dawkins’ stance](We%20are%20more%20than%20atheism.md)
 
@@ -44,6 +44,8 @@ In most cases, I agreed with ChatGPT’s classification, but there were a few in
 Ultimately, whether you agree with my assessment or ChatGPT’s, **the overall picture remains the same—the results are nearly identical.**
 
 ### The Evolution
+
+
 
 - **Before 2020**: A supportive era, with no anti-trans articles. Example: *“Is There Room in Atheism for Trans People?”* (2018) [[12]](#references). CFI also made official statements in support of trans rights [[13]](#references), [[14]](#references).
 - **After 2020**: A significant increase in anti-trans articles. **Anti-trans articles now outnumber pro-trans ones 2:1.**
