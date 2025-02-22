@@ -14,53 +14,53 @@ See also: [My article about Dawkins’ stance](We%20are%20more%20than%20atheism.
 
 ## Who Will Betray Us Next?
 
-Recently, **Jerry A. Coyne**—someone I used to admire as well—was involved in a controversy surrounding CFI and another similar organization, the **Freedom From Religion Foundation (FFRF)**. He wrote a strongly anti-trans article intended for publication on FFRF’s website, as a response to an article by **Kat Grant** about trans women [[3]](#references). However, FFRF later removed Coyne’s article and issued an apology [[4]](#references). Outraged, Coyne republished the piece on CFI’s website [[5]](#references), where it was praised by an editor of *Free Inquiry* (CFI’s magazine) [[6]](#references). [Read more about the whole story here](#7).
+Recently, Jerry A. Coyne—someone I used to admire as well—was involved in a controversy surrounding CFI and another similar organization, the Freedom From Religion Foundation (FFRF). He wrote a strongly anti-trans article intended for publication on FFRF’s website, as a response to an article by Kat Grant about trans women [[3](https://freethoughtnow.org/what-is-a-woman/)]. However, FFRF later removed Coyne’s article and issued an apology [[4](https://ffrf.org/news/releases/freedom-from-religion-foundation-supports-lgbtqia-plus-rights/)]. Outraged, Coyne republished the piece on CFI’s website [[5](https://secularhumanism.org/exclusive/biology-is-not-bigotry/)], where it was praised by an editor of *Free Inquiry* (CFI’s magazine) [[6](https://secularhumanism.org/exclusive/the-regrettable-dogmatism-of-ffrf/)]. Read more about the whole story here [[7](https://www.friendlyatheist.com/p/atheist-group-faces-backlash-after)].
 
-Although I once supported CFI, I had already withdrawn my support after they published anti-trans articles in *Free Inquiry* [[8]](#references), [[9]](#references). These articles echoed the same fearmongering narratives used by transphobes, without offering any proper rebuttals. While that edition did include one supportive article [[10]](#references), the overall impression was that CFI had positioned itself on the anti-trans side—allowing a single positive piece to create the illusion of a “balanced debate” between misinformation and actual debunking.
+Although I once supported CFI, I had already withdrawn my support after they published anti-trans articles in *Free Inquiry* [[8](https://secularhumanism.org/2025/01/introduction-to-special-section-on-transgender-controversies/), [9](https://secularhumanism.org/2025/01/transgender-rights-a-framework-for-resolving-the-controversy/)]. These articles echoed the same fearmongering narratives used by transphobes, without offering any proper rebuttals. While that edition did include one supportive article [[10](https://secularhumanism.org/2025/01/in-the-toilet-with-j-k-rowling-reason-vs-emotion-in-the-transgender-bathroom-debate/)], the overall impression was that CFI had positioned itself on the anti-trans side—allowing a single positive piece to create the illusion of a “balanced debate” between misinformation and actual debunking.
 
-I will soon write an article debunking common anti-trans myths, but here, I won’t dive into countering these arguments in detail—it would take pages (*Brandolini's law!*).
+I will soon write an article debunking common anti-trans myths, but here, I won’t dive into countering these arguments in detail—it would take pages (Brandolini's law!).
 
-## The Shift to Hard Transphobia
+## The Analysis
 
-With the **Jerry A. Coyne scandal**, we enter what I would call the realm of **"hard transphobia."** 
-
-- **Soft transphobia** includes statements like *“trans women should not be allowed in Olympic women’s sports”* or *“sex is fully binary, but gender? I don’t know.”* While harmful, these statements often stem from ignorance rather than outright malice.
-- **Hard transphobia**, on the other hand, involves policies and beliefs that, if implemented, would actively endanger trans people’s lives—such as *“trans women should be forced to use men’s bathrooms and locker rooms”* or *“trans women should be placed in men’s prisons if they are convicted of a crime.”* 
-
-**Jerry A. Coyne falls into this second category with his article [[5]](#references), and CFI not only published it but also applauded him for it [[6]](#references).**
-
-### The Analysis
-
-I searched for articles about trans issues on **CFI’s blog, their magazine (*Free Inquiry*), and their public communications**. I then categorized each article into three groups: **supportive, neutral, or anti-trans.**
+I searched for articles about trans issues on CFI’s blog, their magazine (*Free Inquiry*), and their public communications. I then categorized each article into three groups: supportive, neutral, or anti-trans.
 
 To minimize confirmation bias, I asked ChatGPT to classify them for me. I provided the following prompt:
 
-> *I want you to tell me, for each article I copy-paste, whether it is supportive of trans people, neutral, or anti-trans.*
+> I want you to tell me, for each article I copy-paste, whether it is supportive of trans people, neutral, or anti-trans.
 
 For each article, I only provided the content—omitting the title, author, and date—to reduce the risk of bias from ChatGPT recognizing the author’s known stance.
 
-In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed. However, its misjudgments were never between *anti-trans* and *supportive*; they were always between *neutral* and either *anti-trans* or *supportive.*
+In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed (see my Excel file if you’re curious [[11](https://github.com/rchampeimont/transition-stories/blob/main/CFI_analysis/CFI%20trans%20articles%20analysis.xlsx)]). Still, I decided to use ChatGPT’s output for the analysis to avoid bias from my own perspective—even though I strongly believe it got some classifications wrong. However, its misjudgments were never between anti-trans and supportive; they were always between neutral and either anti-trans or supportive.
 
-Ultimately, whether you agree with my assessment or ChatGPT’s, **the overall picture remains the same—the results are nearly identical.**
+Ultimately, whether you agree with my assessment or ChatGPT’s, the overall picture remains the same—the results are nearly identical.
 
 ### The Evolution
 
+![Chart showing shift in CFI's stance](CFI_analysis/histogram_evolution_over_time.png)
 
+As we can clearly see, there was a supportive era before 2020, during which no anti-trans articles were published. Then, a shift occurred, and CFI began publishing a significant number of anti-trans articles.
 
-- **Before 2020**: A supportive era, with no anti-trans articles. Example: *“Is There Room in Atheism for Trans People?”* (2018) [[12]](#references). CFI also made official statements in support of trans rights [[13]](#references), [[14]](#references).
-- **After 2020**: A significant increase in anti-trans articles. **Anti-trans articles now outnumber pro-trans ones 2:1.**
+### Supportive Era (Before 2020)
+
+![Chart showing increase in anti-trans articles](CFI_analysis/pie_chart_before_2020.png)
+
+During this period, you would find articles like *Is There Room in Atheism for Trans People?* (2018), which expressed concern about the growing anti-trans fringe within the atheist movement [[12](https://centerforinquiry.org/blog/is_there_room_in_atheism_for_trans_people/)]. CFI also made official statements in support of trans rights [[13](https://centerforinquiry.org/press_releases/trumps_transgender_military_ban), [14](https://centerforinquiry.org/press_releases/cfi-condemns-governments-attempt-to-define-transgender-people-out-of-their-rights/)].
+
+### Anti-Trans Era
+
+![Chart showing increase in anti-trans articles](CFI_analysis/pie_chart_2020-2025.png)
+
+As you can see, articles promoting anti-trans views now make up a majority. If you use my categorization instead of ChatGPT’s, anti-trans articles would represent only 50%—but that’s still an alarming sign. It means there are just as many anti-trans articles as all supportive and neutral articles combined. Another way to put it: anti-trans articles are twice as numerous as pro-trans ones.
 
 ## My Opinion
 
-In today’s world, being an **atheist in America** makes you part of an **oppressed minority**—not the most marginalized, but still genuinely disadvantaged. Given that, you’d expect organizations like **CFI** to stand in solidarity with other marginalized groups, not align with the very forces that oppress them.
+In today’s world, being an atheist in America makes you part of an oppressed minority—not the most marginalized, but still genuinely disadvantaged. Given that, you’d expect organizations like CFI to stand in solidarity with other marginalized groups, not align with the very forces that oppress them.
 
-Why has an organization like **CFI** fallen into transphobia? They seem to be betting on the **“absolute free speech” approach**, where allowing the spread of outright falsehoods about an already oppressed minority—without scientific backing—is considered acceptable [[7]](#references).
+Why has an organization like CFI fallen into transphobia? It seems they are betting on the “absolute free speech” approach, where allowing the spread of outright falsehoods about an already oppressed minority—without scientific backing—is considered acceptable [[7](https://www.friendlyatheist.com/p/atheist-group-faces-backlash-after)].
 
-So what do you do if you’re trans and involved with **CFI**? **You leave.** You probably don’t want to be in a space where people openly advocate for policies that would lead to you being harassed [[15]](#references), falling into depression, or even being driven to suicide [[16]](#references).
+So what do you do if you’re trans and involved with CFI? You leave.
 
-If you actually want a diverse organization where trans people feel welcome, **you set policies that limit free speech at the point where it enables the spread of harmful, false narratives that fuel hatred.** You do what the so-called *"evil woke"* **FFRF** does: **you take a stand.**
-
-To be clear, **CFI is not openly supporting Donald Trump’s attempts to erase trans people or make their lives miserable.** They didn’t start the fire—but they sure as hell threw fuel on it.
+To be clear, CFI is not openly supporting Donald Trump’s attempts to erase trans people or make their lives miserable. They didn’t start the fire—but they sure as hell threw fuel on it.
 
 ## References
 1.	https://en.wikipedia.org/wiki/Views_of_Richard_Dawkins#LGBT_issues
@@ -77,5 +77,5 @@ To be clear, **CFI is not openly supporting Donald Trump’s attempts to erase t
 12.	Is There Room in Atheism for Trans People? by EJ Sorrell. Center for Inquiry blog https://centerforinquiry.org/blog/is_there_room_in_atheism_for_trans_people/ 
 13.	Center for Inquiry Condemns Trump’s Transgender Military Ban as Turning Back Progress. CFI press release. https://centerforinquiry.org/press_releases/trumps_transgender_military_ban 
 14.	CFI Condemns Government’s Attempt to Define Transgender People Out of Their Rights. CFI press release. https://centerforinquiry.org/press_releases/cfi-condemns-governments-attempt-to-define-transgender-people-out-of-their-rights/ 
-15.	Gabriel R. Murchison, Madina Agénor, Sari L. Reisner, Ryan J. Watson; School Restroom and Locker Room Restrictions and Sexual Assault Risk Among Transgender Youth. Pediatrics June 2019; 143 (6): e20182902. 10.1542/peds.2018-2902 
-16.	Impact of Bathroom Discrimination on Mental Health Among Transgender and Nonbinary Youth. Price-Feeney, Myeshia et al. Journal of Adolescent Health, Volume 68, Issue 6, 1142 - 1147
+15.	Gabriel R. Murchison, Madina Agénor, Sari L. Reisner, Ryan J. Watson; School Restroom and Locker Room Restrictions and Sexual Assault Risk Among Transgender Youth. Pediatrics June 2019; 143 (6): e20182902. 10.1542/peds.2018-2902 https://publications.aap.org/pediatrics/article-abstract/143/6/e20182902/76816/School-Restroom-and-Locker-Room-Restrictions-and
+16.	Impact of Bathroom Discrimination on Mental Health Among Transgender and Nonbinary Youth. Price-Feeney, Myeshia et al. Journal of Adolescent Health, Volume 68, Issue 6, 1142 - 1147 https://www.jahonline.org/article/S1054-139X(20)30653-4/fulltext
