@@ -2,7 +2,7 @@ By River Champeimont, February 22nd, 2025
 
 # CFI’s Downfall into Transphobia
 
-This article is about the Center for Inquiry, an American organization that, in theory, is dedicated to promoting humanism, skeptical thinking, science, and a rational worldview. It includes a small data analysis I conducted, showing how they have become increasingly anti-trans year after year.
+_This article is about the Center for Inquiry, an American organization that, in theory, is dedicated to promoting humanism, skeptical thinking, science, and a rational worldview. It includes a small data analysis I conducted, showing how they have become increasingly anti-trans year after year._
 
 ## Context
 
@@ -32,7 +32,7 @@ To find out, I conducted a small data analysis. Let me spoil the conclusion righ
 
 ## The Analysis
 
-I searched for articles about trans issues on CFI’s blog, their magazine (*Free Inquiry*), and their public communications. I then categorized each article into three groups: supportive, neutral, or anti-trans.
+I searched for articles about trans issues on CFI’s blog, their magazine (*Free Inquiry*), and their public communications. I then categorized each article into three groups: **supportive, neutral, or anti-trans**.
 
 To minimize confirmation bias, I asked ChatGPT to classify them for me. I provided the following prompt:
 
@@ -40,7 +40,7 @@ To minimize confirmation bias, I asked ChatGPT to classify them for me. I provid
 
 For each article, I only provided the content—omitting the title, author, and date—to reduce the risk of bias from ChatGPT recognizing the author’s known stance.
 
-In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed (see my Excel file if you’re curious [[11](CFI_analysis/CFI%20trans%20articles%20analysis.xlsx)]). Still, I decided to use ChatGPT’s output for the analysis to avoid bias from my own perspective—even though I strongly believe it got some classifications wrong. However, its misjudgments were never between anti-trans and supportive; they were always between neutral and either anti-trans or supportive.
+In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed (see my Excel file if you’re curious [[11](CFI_analysis/CFI%20trans%20articles%20analysis.xlsx)]). Still, I decided to use ChatGPT’s output for the analysis to avoid bias from my own perspective—even though I strongly believe it got some classifications wrong. However, its misjudgments were never between _anti-trans_ and _supportive_; they were always between _neutral_ and either _anti-trans_ or _supportive_.
 
 Ultimately, whether you agree with my assessment or ChatGPT’s, **the overall picture remains the same—the results are nearly identical**.
 
