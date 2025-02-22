@@ -40,27 +40,27 @@ To minimize confirmation bias, I asked ChatGPT to classify them for me. I provid
 
 For each article, I only provided the content—omitting the title, author, and date—to reduce the risk of bias from ChatGPT recognizing the author’s known stance.
 
-In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed (see my Excel file if you’re curious [[11](https://github.com/rchampeimont/transition-stories/blob/main/CFI_analysis/CFI%20trans%20articles%20analysis.xlsx)]). Still, I decided to use ChatGPT’s output for the analysis to avoid bias from my own perspective—even though I strongly believe it got some classifications wrong. However, its misjudgments were never between anti-trans and supportive; they were always between neutral and either anti-trans or supportive.
+In most cases, I agreed with ChatGPT’s classification, but there were a few instances where I disagreed (see my Excel file if you’re curious [[11](CFI_analysis/CFI%20trans%20articles%20analysis.xlsx)]). Still, I decided to use ChatGPT’s output for the analysis to avoid bias from my own perspective—even though I strongly believe it got some classifications wrong. However, its misjudgments were never between anti-trans and supportive; they were always between neutral and either anti-trans or supportive.
 
-Ultimately, whether you agree with my assessment or ChatGPT’s, the overall picture remains the same—the results are nearly identical.
+Ultimately, whether you agree with my assessment or ChatGPT’s, **the overall picture remains the same—the results are nearly identical**.
 
-### The Evolution
+So here is the evolution:
 
 ![Chart showing shift in CFI's stance](CFI_analysis/histogram_evolution_over_time.png)
 
-As we can clearly see, there was a supportive era before 2020, during which no anti-trans articles were published. Then, a shift occurred, and CFI began publishing a significant number of anti-trans articles.
+As we can clearly see, there was a **supportive era before 2020**, during which no anti-trans articles were published. Then, a shift occurred, and CFI began publishing a significant number of anti-trans articles.
 
-### Supportive Era (Before 2020)
+Another way to examine this change is by looking at the **“supportive era” before 2020**:
 
 ![Chart showing increase in anti-trans articles](CFI_analysis/pie_chart_before_2020.png)
 
 During this period, you would find articles like *Is There Room in Atheism for Trans People?* (2018), which expressed concern about the growing anti-trans fringe within the atheist movement [[12](https://centerforinquiry.org/blog/is_there_room_in_atheism_for_trans_people/)]. CFI also made official statements in support of trans rights [[13](https://centerforinquiry.org/press_releases/trumps_transgender_military_ban), [14](https://centerforinquiry.org/press_releases/cfi-condemns-governments-attempt-to-define-transgender-people-out-of-their-rights/)].
 
-### Anti-Trans Era
+Then came the **anti-trans era**:
 
 ![Chart showing increase in anti-trans articles](CFI_analysis/pie_chart_2020-2025.png)
 
-As you can see, articles promoting anti-trans views now make up a majority. If you use my categorization instead of ChatGPT’s, anti-trans articles would represent only 50%—but that’s still an alarming sign. It means there are just as many anti-trans articles as all supportive and neutral articles combined. Another way to put it: anti-trans articles are twice as numerous as pro-trans ones.
+As you can see, articles promoting anti-trans views now make up a majority. If you use my categorization instead of ChatGPT’s, anti-trans articles would represent only 50%—but that’s still an alarming sign. It means there are just as many anti-trans articles as all supportive and neutral articles combined. Another way to put it: **anti-trans articles are twice as numerous as pro-trans ones**.
 
 ## My Opinion
 
@@ -68,24 +68,26 @@ In today’s world, being an atheist in America makes you part of an oppressed m
 
 Why has an organization like CFI fallen into transphobia? It seems they are betting on the “absolute free speech” approach, where allowing the spread of outright falsehoods about an already oppressed minority—without scientific backing—is considered acceptable [[7](https://www.friendlyatheist.com/p/atheist-group-faces-backlash-after)].
 
-So what do you do if you’re trans and involved with CFI? You leave.
+So what do you do if you’re trans and involved with CFI? **You leave**. You probably don’t want to be in a space where people openly advocate for policies that would lead to you being harassed [[15](https://publications.aap.org/pediatrics/article-abstract/143/6/e20182902/76816/School-Restroom-and-Locker-Room-Restrictions-and)], falling into depression, or even being driven to suicide [[16](https://www.jahonline.org/article/S1054-139X(20)30653-4/fulltext)]. And if you’re a friend or partner of a trans person, you’ll likely feel just as uneasy.
 
-To be clear, CFI is not openly supporting Donald Trump’s attempts to erase trans people or make their lives miserable. They didn’t start the fire—but they sure as hell threw fuel on it.
+If you actually want a diverse organization where trans people feel welcome, you **set policies that limit free speech at the point where it enables the spread of harmful, false narratives that fuel hatred**. You do what the _"evil woke"_ FFRF does: **you take a stand**.
+
+To be clear, CFI is **not** openly supporting Donald Trump’s attempts to erase trans people or make their lives miserable. They didn’t start the fire—but they sure as hell threw fuel on it.
 
 ## References
 1.	https://en.wikipedia.org/wiki/Views_of_Richard_Dawkins#LGBT_issues
 2.	https://en.wikipedia.org/wiki/J._K._Rowling#Transgender_people
-3.	What is a woman? by Kat Grant. Freedom From Religion Foundation news website https://freethoughtnow.org/what-is-a-woman/ 
-4.	Freedom From Religion Foundation supports LGBTQIA-plus rights, Freedom From Religion Foundation main website https://ffrf.org/news/releases/freedom-from-religion-foundation-supports-lgbtqia-plus-rights/ 
-5.	Biology Is Not Bigotry by Jerry A. Coyne. Free Inquiry website https://secularhumanism.org/exclusive/biology-is-not-bigotry/ 
-6.	The Regrettable Dogmatism of FFRF by Ronald A. Lindsay. Free Inquiry website. https://secularhumanism.org/exclusive/the-regrettable-dogmatism-of-ffrf/ 
-7.	Atheist group faces backlash after publishing, then removing, anti-trans article by Hemant Mehta. Friendly Atheist. https://www.friendlyatheist.com/p/atheist-group-faces-backlash-after 
-8.	Introduction to Special Section on Transgender Controversies by Ronald A. Lindsay. Free Inquiry.	https://secularhumanism.org/2025/01/introduction-to-special-section-on-transgender-controversies/ 
-9.	Transgender Rights: A Framework for Resolving the Controversy	by Gary L. Francione. Free Inquiry.	https://secularhumanism.org/2025/01/transgender-rights-a-framework-for-resolving-the-controversy/ 
-10.	In the Toilet with J. K. Rowling: Reason vs. Emotion in the Transgender Bathroom Debate	 by Tilda Storey-Law. Free Inquiry. https://secularhumanism.org/2025/01/in-the-toilet-with-j-k-rowling-reason-vs-emotion-in-the-transgender-bathroom-debate/ 
-11.	Analysis of CFI trans-related articles by River Champeimont. Excel file: https://github.com/rchampeimont/transition-stories/blob/main/CFI_analysis/CFI%20trans%20articles%20analysis.xlsx 
-12.	Is There Room in Atheism for Trans People? by EJ Sorrell. Center for Inquiry blog https://centerforinquiry.org/blog/is_there_room_in_atheism_for_trans_people/ 
-13.	Center for Inquiry Condemns Trump’s Transgender Military Ban as Turning Back Progress. CFI press release. https://centerforinquiry.org/press_releases/trumps_transgender_military_ban 
-14.	CFI Condemns Government’s Attempt to Define Transgender People Out of Their Rights. CFI press release. https://centerforinquiry.org/press_releases/cfi-condemns-governments-attempt-to-define-transgender-people-out-of-their-rights/ 
+3.	_What is a woman?_ by Kat Grant. Freedom From Religion Foundation news website https://freethoughtnow.org/what-is-a-woman/ 
+4.	_Freedom From Religion Foundation supports LGBTQIA-plus rights_, Freedom From Religion Foundation main website https://ffrf.org/news/releases/freedom-from-religion-foundation-supports-lgbtqia-plus-rights/ 
+5.	_Biology Is Not Bigotry_ by Jerry A. Coyne. Free Inquiry website https://secularhumanism.org/exclusive/biology-is-not-bigotry/ 
+6.	_The Regrettable Dogmatism of FFRF_ by Ronald A. Lindsay. Free Inquiry website. https://secularhumanism.org/exclusive/the-regrettable-dogmatism-of-ffrf/ 
+7.	_Atheist group faces backlash after publishing, then removing, anti-trans article_ by Hemant Mehta. Friendly Atheist. https://www.friendlyatheist.com/p/atheist-group-faces-backlash-after 
+8.	_Introduction to Special Section on Transgender Controversies_ by Ronald A. Lindsay. Free Inquiry.	https://secularhumanism.org/2025/01/introduction-to-special-section-on-transgender-controversies/ 
+9.	_Transgender Rights: A Framework for Resolving the Controversy_	by Gary L. Francione. Free Inquiry.	https://secularhumanism.org/2025/01/transgender-rights-a-framework-for-resolving-the-controversy/ 
+10.	_In the Toilet with J. K. Rowling: Reason vs. Emotion in the Transgender Bathroom Debate_	by Tilda Storey-Law. Free Inquiry. https://secularhumanism.org/2025/01/in-the-toilet-with-j-k-rowling-reason-vs-emotion-in-the-transgender-bathroom-debate/ 
+11. _Analysis of CFI trans-related articles_ by River Champeimont. Excel file: https://github.com/rchampeimont/transition-stories/blob/main/CFI_analysis/CFI%20trans%20articles%20analysis.xlsx 
+12.	_Is There Room in Atheism for Trans People?_ by EJ Sorrell. Center for Inquiry blog https://centerforinquiry.org/blog/is_there_room_in_atheism_for_trans_people/ 
+13.	_Center for Inquiry Condemns Trump’s Transgender Military Ban as Turning Back Progress_. CFI press release. https://centerforinquiry.org/press_releases/trumps_transgender_military_ban 
+14.	_CFI Condemns Government’s Attempt to Define Transgender People Out of Their Rights_. CFI press release. https://centerforinquiry.org/press_releases/cfi-condemns-governments-attempt-to-define-transgender-people-out-of-their-rights/ 
 15.	Gabriel R. Murchison, Madina Agénor, Sari L. Reisner, Ryan J. Watson; School Restroom and Locker Room Restrictions and Sexual Assault Risk Among Transgender Youth. Pediatrics June 2019; 143 (6): e20182902. 10.1542/peds.2018-2902 https://publications.aap.org/pediatrics/article-abstract/143/6/e20182902/76816/School-Restroom-and-Locker-Room-Restrictions-and
 16.	Impact of Bathroom Discrimination on Mental Health Among Transgender and Nonbinary Youth. Price-Feeney, Myeshia et al. Journal of Adolescent Health, Volume 68, Issue 6, 1142 - 1147 https://www.jahonline.org/article/S1054-139X(20)30653-4/fulltext
