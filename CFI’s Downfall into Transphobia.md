@@ -22,6 +22,14 @@ Although I once supported CFI, I had already withdrawn my support after they pub
 
 I will soon write an article debunking common anti-trans myths, but here, I won’t dive into countering these arguments in detail—it would take pages (Brandolini's law!).
 
+But with the Jerry A. Coyne scandal, we enter what I would call the realm of "**hard transphobia**." _Soft transphobia_ includes statements like _“trans women should not be allowed in Olympic women’s sports”_ or _“sex is fully binary, but gender? I don’t know.”_ While harmful, these statements often stem from ignorance rather than outright malice.
+
+_Hard transphobia_, on the other hand, involves policies and beliefs that, if implemented, would actively endanger trans people’s lives—such as _“trans women should be forced to use men’s bathrooms and locker rooms”_ or _“trans women should be placed in men’s prisons if they are convicted of a crime.”_ Jerry A. Coyne falls into this second category with his article [[5](https://secularhumanism.org/exclusive/biology-is-not-bigotry/)], and CFI not only published it but also applauded him for it [[6](https://secularhumanism.org/exclusive/the-regrettable-dogmatism-of-ffrf/)].
+
+So I started wondering: **Has this organization always been anti-trans, and I simply didn’t notice because I didn’t identify as trans at the time? Or is this a more recent shift?**
+
+To find out, I conducted a small data analysis. Let me spoil the conclusion right away: **This is a shift. They were not anti-trans in the past.**
+
 ## The Analysis
 
 I searched for articles about trans issues on CFI’s blog, their magazine (*Free Inquiry*), and their public communications. I then categorized each article into three groups: supportive, neutral, or anti-trans.
