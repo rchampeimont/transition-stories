@@ -12,7 +12,7 @@ Let’s go back to around 2006, when I was 19. I was on a trip to Scotland with 
 
 Considering that the *Harry Potter* series frames the fight against purity and intolerance as a central theme, you might expect its author to stand firmly for trans rights—one of the most vilified minorities today. Similarly, you might assume that the author of a book condemning religious intolerance would be a strong advocate for LGBTQIA+ rights. But not at all! These two authors are among the most vocal opponents of trans rights [[1](https://en.wikipedia.org/wiki/Views_of_Richard_Dawkins#LGBT_issues), [2](https://en.wikipedia.org/wiki/J._K._Rowling#Transgender_people)].
 
-See also: [My article about Dawkins’ stance](We%20are%20more%20than%20atheism.md)
+See also [my article about Dawkins’ stance](We%20are%20more%20than%20atheism.md)
 
 ## Who Will Betray Us Next?
 
