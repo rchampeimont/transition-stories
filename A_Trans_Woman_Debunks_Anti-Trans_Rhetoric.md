@@ -36,10 +36,10 @@ Laws that **force people to use bathrooms based on biological sex** cause seriou
 
 People often worry about cis kids who mistakenly think they’re trans and supposedly "damage" their bodies permanently—especially by becoming sterile. But let’s take a step back and look at what transitioning for kids actually looks like in reality:
 
-- **Social transition** is the first step. This includes changing pronouns, using a different name, and dressing differently. Nothing irreversible here.
-- The first medical step is **puberty blockers**. These delay natural puberty but don’t cause any permanent changes. If a child stops taking them, they simply go through their natural puberty as if they had never taken blockers [7,8].
-- The next step is **HRT (Hormone Replacement Therapy)**. This means going through the puberty that matches a child’s gender identity instead of the one dictated by their birth sex. This does cause irreversible changes—just like any puberty does.
-- **Bottom surgery (genital surgery)** is never performed on minors in Canada [8]. The kind of surgery typically performed sometimes on minors is **mastectomy (also called “top surgery”)** for trans boys (note that blockers and HRT taken early enough avoid the need for it).
+1. **Social transition** is the first step. This includes changing pronouns, using a different name, and dressing differently. Nothing irreversible here.
+1. **The first medical step is puberty blockers**. These delay natural puberty but don’t cause any permanent changes. If a child stops taking them, they simply go through their natural puberty as if they had never taken blockers [7,8].
+1. **The next step is HRT (Hormone Replacement Therapy)**. This means going through the puberty that matches a child’s gender identity instead of the one dictated by their birth sex. This does cause irreversible changes—just like any puberty does.
+1. **Bottom surgery (genital surgery) is never performed on minors in Canada** [8]. The kind of surgery typically performed sometimes on minors is mastectomy (also called “top surgery”) for trans boys (note that blockers and HRT taken early enough avoid the need for it).
 
 Also, keep in mind that even trans adults don’t necessarily undergo bottom surgery—in fact, most trans people haven’t had any surgery at all [10].
 
@@ -49,19 +49,26 @@ Because for actual trans kids, avoiding "natural" puberty is a huge deal.
 
 This debate suffers from the same bias as vaccination debates—people fixate on rare potential side effects while completely ignoring the well-documented, life-changing benefits.
 
-For trans people, puberty isn’t just a phase—it can cause permanent, unwanted changes that are difficult (or impossible) to reverse [7].
+For trans people, puberty isn’t just a phase—it can cause permanent, unwanted changes that are difficult (or impossible) to reverse [7]. For instance, in the case of trans girls (which I know from first-hand experience):
+* **Your voice will break** and take on a masculine tone. If you want a feminine voice later, you’ll need to train it like a voice actor, which takes effort and time.
+* **You’ll grow facial hair**, which means dozens of painful laser or electrolysis sessions to remove it.
+* **Your breasts won’t develop fully** even with HRT later—early puberty blockers allow breast growth that looks more natural.
+
+Overall, access to puberty blockers and HRT for trans kids has a significant positive impact on their mental health, reducing the risk of depression by 60% and the likelihood of suicidal thoughts or attempts by 70% [9].
 
 ## Aren’t There Too Many Trans Kids?
 
 Today, more kids identify as trans compared to the past. But surely there were no trans kids in the 90s, right?
 
-I was a trans kid in the 90s. But when 7-year-old me said she wanted "to be a girl," all the other kids laughed at her. She quickly learned that it was better to never say things like that again. That’s why people think there were "no trans kids" back then.
+I was a trans kid in the 90s. But when **7-year-old me said she wanted "to be a girl"**, all the other kids laughed at her. She quickly learned that it was better to **never say things like that again**. That’s why people think there were "no trans kids" back then.
 
 ## Why Do Trans People Say That “Trans Women Are Women”?
 
-I’m a lesbian, which means I’m attracted to women—and sometimes to feminine-presenting non-binary people. But my attraction isn’t based on sex—it’s based on gender.
+I’m a **lesbian**, which means I’m attracted to women—and sometimes to feminine-presenting non-binary people. But my attraction isn’t based on sex—it’s based on gender.
 
-If I meet a trans man (who is biologically female), I won’t find him attractive at all. On the other hand, I am attracted to trans women, even though they are not biologically female. This shows that, in real life, the word "woman" makes more sense as trans people use it, rather than in a strict biological sense.
+If **I meet a trans man (who is biologically female), I won’t find him attractive at all**. On the other hand, I am attracted to trans women, even though they are not biologically female. This shows that, in real life, the word **"woman" makes more sense as trans people use it, rather than in a strict biological sense.** That’s one of the reasons we say "trans women are women."
+
+If you don’t personally know trans people, you might think they always have an **unusual or androgynou**s appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass—trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
 
 ## Conclusion
 
