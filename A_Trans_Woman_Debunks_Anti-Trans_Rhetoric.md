@@ -76,15 +76,15 @@ First, **most trans people go on HRT (Hormone Replacement Therapy) if they can**
 
 Second, people often assume that biology and hormones **alone** determine behavior differences between men and women. In reality, both **biology and socialization** play a role, and their exact influence is still debated in science.
 
-For example, men are typically more violent than women—not just because of testosterone, but also because society reinforces aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
+For example, men are typically more violent than women—not just because of testosterone, but also because society **reinforces** aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
 
-As a personal anecdote, I copied some feminine behaviors even before I realized I was a woman, just to give you an idea of how powerful this phenomenon is.
+As a personal anecdote, I **copied some feminine behaviors even before I realized I was a woman**, just to give you an idea of how powerful this phenomenon is.
 
-To be fair, there is a definition of "woman" where trans women wouldn’t count—if you define women strictly by chromosomes and reproduction. But by that logic, not all cis women would be women either!
+To be fair, there is a definition of "woman" where trans women wouldn’t count—if you define women strictly by **chromosomes and reproduction**. But by that logic, **not all cis women would be women either!**
 
-For example, someone born with XY chromosomes but who is intersex might be socialized as a woman, develop a typical female body, and, if she identifies as a woman, she is a cis woman. She never transitioned, so no one sees her as a trans woman.
+For example, someone born with **XY chromosomes but who is intersex** might be **socialized as a woman**, develop a **typical female body**, and, if she identifies as a woman, **she is a cis woman.** She never transitioned, so no one sees her as a trans woman.
 
-Also, being intersex isn’t as rare as people think—it affects 1.7 to 4% of the North American population [1], which means between 680,000 and 1.6 million people in Canada.
+Also, **being intersex isn’t as rare as people think** — it affects **1.7 to 4% of the North American population** [1], which means **between 680,000 and 1.6 million people in Canada**.
 
 ## Conclusion
 
@@ -97,7 +97,7 @@ I hope this article gave you a better understanding of the trans perspective and
 1. Hasenbush, A., Flores, A.R. & Herman, J.L. Gender Identity Nondiscrimination Laws in Public Accommodations: a Review of Evidence Regarding Safety and Privacy in Public Restrooms, Locker Rooms, and Changing Rooms. Sex Res Soc Policy 16, 70–83 (2019). https://doi.org/10.1007/s13178-018-0335-z 
 1. Gabriel R. Murchison, Madina Agénor, Sari L. Reisner, Ryan J. Watson; School Restroom and Locker Room Restrictions and Sexual Assault Risk Among Transgender Youth. Pediatrics June 2019; 143 (6): e20182902. 10.1542/peds.2018-2902 
 1. Office for National Statistics (ONS), released 6 January 2023, ONS website, statistical bulletin, Gender identity, England and Wales: Census 2021 
-1. Violent Victimization by Sexual Orientation and Gender Identity, 2017–2020, Jennifer L. Truman, Ph.D., and Rachel E. Morgan, Ph.D., BJS Statisticians [here is a backup copy of this document before it was taken down by the U.S. administration]
+1. Violent Victimization by Sexual Orientation and Gender Identity, 2017–2020, Jennifer L. Truman, Ph.D., and Rachel E. Morgan, Ph.D., BJS Statisticians [here is a backup copy of this document before it was taken down by the U.S. administration](A_Trans_Woman_Debunks_Anti-Trans_Rhetoric/Violent%20Victimization%20by%20Sexual%20Orientation.pdf)
 1. Impact of Bathroom Discrimination on Mental Health Among Transgender and Nonbinary Youth. Price-Feeney, Myeshia et al. Journal of Adolescent Health, Volume 68, Issue 6, 1142 - 1147
 1. Guss C, Gordon CM. Pubertal Blockade and Subsequent Gender-Affirming Therapy. JAMA Netw Open. 2022;5(11):e2239763. doi:10.1001/jamanetworkopen.2022.39763 
 1. How to access gender-affirming care: Options, Government of Canada
