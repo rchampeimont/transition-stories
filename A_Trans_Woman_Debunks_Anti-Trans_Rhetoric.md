@@ -70,6 +70,22 @@ If **I meet a trans man (who is biologically female), I won’t find him attract
 
 If you don’t personally know trans people, you might think they always have an **unusual or androgynou**s appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass—trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
 
+## But What About Biology? Aren’t Trans Women Still Men Biologically?
+
+First, **most trans people go on HRT (Hormone Replacement Therapy) if they can** [10], which replaces their natural hormones with those of the gender they identify with. For anything controlled by hormones, **trans women function like cis women, and trans men like cis men**. For example, many trans women on HRT, including me, notice they cry more easily.
+
+Second, people often assume that biology and hormones **alone** determine behavior differences between men and women. In reality, both **biology and socialization** play a role, and their exact influence is still debated in science.
+
+For example, men are typically more violent than women—not just because of testosterone, but also because society reinforces aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
+
+As a personal anecdote, I copied some feminine behaviors even before I realized I was a woman, just to give you an idea of how powerful this phenomenon is.
+
+To be fair, there is a definition of "woman" where trans women wouldn’t count—if you define women strictly by chromosomes and reproduction. But by that logic, not all cis women would be women either!
+
+For example, someone born with XY chromosomes but who is intersex might be socialized as a woman, develop a typical female body, and, if she identifies as a woman, she is a cis woman. She never transitioned, so no one sees her as a trans woman.
+
+Also, being intersex isn’t as rare as people think—it affects 1.7 to 4% of the North American population [1], which means between 680,000 and 1.6 million people in Canada.
+
 ## Conclusion
 
 This isn’t just a scientific debate—it’s part of an ongoing cultural war aimed at erasing us from public life and stripping away our rights. What’s at stake here are the lives of actual trans people.
