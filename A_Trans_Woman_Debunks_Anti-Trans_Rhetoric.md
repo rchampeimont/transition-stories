@@ -68,7 +68,7 @@ I’m a **lesbian**, which means I’m attracted to women — and sometimes to f
 
 If **I meet a trans man (who is biologically female), I won’t find him attractive at all**. On the other hand, I am attracted to trans women, even though they are not biologically female. This shows that, in real life, the word **"woman" makes more sense as trans people use it, rather than in a strict biological sense.** That’s one of the reasons we say "trans women are women."
 
-If you don’t personally know trans people, you might think they always have an **unusual or androgynou**s appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass — trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
+If you don’t personally know trans people, you might think they always have an **unusual or androgynous** appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass — trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
 
 ## But What About Biology? Aren’t Trans Women Still Men Biologically?
 
