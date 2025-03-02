@@ -19,7 +19,7 @@ In this article, I mainly discuss the experiences of trans men and trans women, 
 
 This seems to be **the #1 obsession** of transphobes. But the idea that trans women harass cis women in bathrooms **has no basis in reality** — there’s no documented evidence of it happening. In fact, studies show that allowing trans women to use women’s bathrooms **does not increase any risks** [2].
 
-Transphobes also seem to completely **forget that trans men exis**t, since most of their rhetoric is aimed at trans women. But statistically, if you had a group of 5 trans people, 2 would be trans women, 2 would be trans men, and 1 would be non-binary [4].
+Transphobes also seem to completely **forget that trans men exist**, since most of their rhetoric is aimed at trans women. But statistically, if you had a group of 5 trans people, 2 would be trans women, 2 would be trans men, and 1 would be non-binary [4].
 
 Laws that **force people to use bathrooms based on biological sex** cause serious problems for both cis and trans people:
 
