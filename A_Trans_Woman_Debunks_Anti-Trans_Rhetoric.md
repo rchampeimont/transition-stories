@@ -17,20 +17,20 @@ In this article, I mainly discuss the experiences of trans men and trans women, 
 
 ## Are Trans Women Dangerous in Bathrooms?
 
-This seems to be the #1 obsession of transphobes. But the idea that trans women harass cis women in bathrooms has no basis in reality—there’s no documented evidence of it happening. In fact, studies show that allowing trans women to use women’s bathrooms does not increase any risks [2].
+This seems to be **the #1 obsession** of transphobes. But the idea that trans women harass cis women in bathrooms **has no basis in reality** — there’s no documented evidence of it happening. In fact, studies show that allowing trans women to use women’s bathrooms **does not increase any risks** [2].
 
-Transphobes also seem to completely forget that trans men exist, since most of their rhetoric is aimed at trans women. But statistically, if you had a group of 5 trans people, 2 would be trans women, 2 would be trans men, and 1 would be non-binary [4].
+Transphobes also seem to completely **forget that trans men exis**t, since most of their rhetoric is aimed at trans women. But statistically, if you had a group of 5 trans people, 2 would be trans women, 2 would be trans men, and 1 would be non-binary [4].
 
-Laws that force people to use bathrooms based on biological sex cause serious problems for both cis and trans people:
+Laws that **force people to use bathrooms based on biological sex** cause serious problems for both cis and trans people:
 
-- Trans men would be forced into women’s bathrooms, which would be extremely awkward for cis women—because trans men look like men.
-- Trans women are much more likely to be harassed in men’s bathrooms [3] because:
-  - They would be the only woman (or young girl) surrounded by men.
-  - They face an even higher risk of harassment [5] due to transphobia, and it would be immediately obvious they are trans since they are using the "wrong" bathroom for their appearance.
-  - It forces trans people to out themselves. Many trans women live in stealth mode, meaning they let people assume they’re cis women to avoid transphobia. But these bathroom laws would force them to out themselves every time—since people would see them entering the men’s bathroom. And, unsurprisingly, the places pushing these laws are often the most transphobic, where being stealth is the most valuable.
-  - It creates an easy loophole for bad actors. A man could simply pretend to be a trans man and claim he’s a "biological woman" to enter women’s spaces. Since people would start seeing people who "don’t look right" in their bathrooms from time to time, this would actually make abuse easier, not harder.
-  - For trans people, using the wrong bathroom is traumatizing [6]. It’s a constant reminder that society doesn’t believe us when we say who we are and that we’re seen as second-class citizens who don’t deserve the same rights.
-  - They would create awkward situations for trans people all the time. People already challenge those who "don’t look right" in bathrooms, so trans people would constantly have to explain, "I’m only doing this to comply with stupid laws." The law forces you to do the opposite of expected social conventions.
+- **Trans men would be forced into women’s bathrooms**, which would be extremely awkward for cis women—because trans men look like men.
+- **Trans women are much more likely to be harassed in men’s bathrooms** [3] because:
+  - They would be **the only woman (or young girl) surrounded by men**.
+  - They face **an even higher risk of harassment** [5] due to transphobia, and it would be immediately obvious they are trans since they are using the "wrong" bathroom for their appearance.
+  - **It forces trans people to out themselves.** Many trans women live in **stealth mode**, meaning they let people assume they’re cis women to avoid transphobia. But these bathroom laws would force them to **out themselves every time** — since people would see them entering the men’s bathroom. And, unsurprisingly, the places pushing these laws are often the most transphobic, where being stealth is the most valuable.
+  - **It creates an easy loophole for bad actors.** A man could simply **pretend to be a trans man** and claim he’s a "biological woman" to enter women’s spaces. Since people would start seeing people who "don’t look right" in their bathrooms from time to time, **this would actually make abuse easier, not harder.**
+  - **For trans people, using the wrong bathroom is traumatizing** [6]. It’s a constant reminder that society **doesn’t believe us when we say who we are** and that we’re seen as **second-class citizens** who don’t deserve the same rights.
+  - They would create awkward situations for trans people all the time. People already challenge those who "don’t look right" in bathrooms, so trans people would constantly have to explain, **"I’m only doing this to comply with stupid laws."** The law forces you to do the opposite of expected social conventions.
 
 ## Are Kids Getting Irreversible Medical Procedures?
 
