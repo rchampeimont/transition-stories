@@ -23,7 +23,7 @@ Transphobes also seem to completely **forget that trans men exis**t, since most 
 
 Laws that **force people to use bathrooms based on biological sex** cause serious problems for both cis and trans people:
 
-- **Trans men would be forced into women’s bathrooms**, which would be extremely awkward for cis women—because trans men look like men.
+- **Trans men would be forced into women’s bathrooms**, which would be extremely awkward for cis women — because trans men look like men.
 - **Trans women are much more likely to be harassed in men’s bathrooms** [3] because:
   - They would be **the only woman (or young girl) surrounded by men**.
   - They face **an even higher risk of harassment** [5] due to transphobia, and it would be immediately obvious they are trans since they are using the "wrong" bathroom for their appearance.
@@ -34,25 +34,25 @@ Laws that **force people to use bathrooms based on biological sex** cause seriou
 
 ## Are Kids Getting Irreversible Medical Procedures?
 
-People often worry about cis kids who mistakenly think they’re trans and supposedly "damage" their bodies permanently—especially by becoming sterile. But let’s take a step back and look at what transitioning for kids actually looks like in reality:
+People often worry about cis kids who mistakenly think they’re trans and supposedly "damage" their bodies permanently — especially by becoming sterile. But let’s take a step back and look at what transitioning for kids actually looks like in reality:
 
 1. **Social transition** is the first step. This includes changing pronouns, using a different name, and dressing differently. Nothing irreversible here.
 1. **The first medical step is puberty blockers**. These delay natural puberty but don’t cause any permanent changes. If a child stops taking them, they simply go through their natural puberty as if they had never taken blockers [7,8].
-1. **The next step is HRT (Hormone Replacement Therapy)**. This means going through the puberty that matches a child’s gender identity instead of the one dictated by their birth sex. This does cause irreversible changes—just like any puberty does.
+1. **The next step is HRT (Hormone Replacement Therapy)**. This means going through the puberty that matches a child’s gender identity instead of the one dictated by their birth sex. This does cause irreversible changes — just like any puberty does.
 1. **Bottom surgery (genital surgery) is never performed on minors in Canada** [8]. The kind of surgery typically performed sometimes on minors is mastectomy (also called “top surgery”) for trans boys (note that blockers and HRT taken early enough avoid the need for it).
 
-Also, keep in mind that even trans adults don’t necessarily undergo bottom surgery—in fact, most trans people haven’t had any surgery at all [10].
+Also, keep in mind that even trans adults don’t necessarily undergo bottom surgery — in fact, most trans people haven’t had any surgery at all [10].
 
 ## Why Not Just Avoid All Medical Procedures in Kids?
 
 Because for actual trans kids, avoiding "natural" puberty is a huge deal.
 
-This debate suffers from the same bias as vaccination debates—people fixate on rare potential side effects while completely ignoring the well-documented, life-changing benefits.
+This debate suffers from the same bias as vaccination debates — people fixate on rare potential side effects while completely ignoring the well-documented, life-changing benefits.
 
-For trans people, puberty isn’t just a phase—it can cause permanent, unwanted changes that are difficult (or impossible) to reverse [7]. For instance, in the case of trans girls (which I know from first-hand experience):
+For trans people, puberty isn’t just a phase — it can cause permanent, unwanted changes that are difficult (or impossible) to reverse [7]. For instance, in the case of trans girls (which I know from first-hand experience):
 * **Your voice will break** and take on a masculine tone. If you want a feminine voice later, you’ll need to train it like a voice actor, which takes effort and time.
 * **You’ll grow facial hair**, which means dozens of painful laser or electrolysis sessions to remove it.
-* **Your breasts won’t develop fully** even with HRT later—early puberty blockers allow breast growth that looks more natural.
+* **Your breasts won’t develop fully** even with HRT later — early puberty blockers allow breast growth that looks more natural.
 
 Overall, access to puberty blockers and HRT for trans kids has a significant positive impact on their mental health, reducing the risk of depression by 60% and the likelihood of suicidal thoughts or attempts by 70% [9].
 
@@ -64,11 +64,11 @@ I was a trans kid in the 90s. But when **7-year-old me said she wanted "to be a 
 
 ## Why Do Trans People Say That “Trans Women Are Women”?
 
-I’m a **lesbian**, which means I’m attracted to women—and sometimes to feminine-presenting non-binary people. But my attraction isn’t based on sex—it’s based on gender.
+I’m a **lesbian**, which means I’m attracted to women — and sometimes to feminine-presenting non-binary people. But my attraction isn’t based on sex — it’s based on gender.
 
 If **I meet a trans man (who is biologically female), I won’t find him attractive at all**. On the other hand, I am attracted to trans women, even though they are not biologically female. This shows that, in real life, the word **"woman" makes more sense as trans people use it, rather than in a strict biological sense.** That’s one of the reasons we say "trans women are women."
 
-If you don’t personally know trans people, you might think they always have an **unusual or androgynou**s appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass—trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
+If you don’t personally know trans people, you might think they always have an **unusual or androgynou**s appearance. But that’s only because the trans people you notice are the ones who look different. **Trans people who fully pass — trans women who look just like cis women — go unnoticed**. You likely see them every day without realizing they’re trans.
 
 ## But What About Biology? Aren’t Trans Women Still Men Biologically?
 
@@ -76,11 +76,11 @@ First, **most trans people go on HRT (Hormone Replacement Therapy) if they can**
 
 Second, people often assume that biology and hormones **alone** determine behavior differences between men and women. In reality, both **biology and socialization** play a role, and their exact influence is still debated in science.
 
-For example, men are typically more violent than women—not just because of testosterone, but also because society **reinforces** aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
+For example, men are typically more violent than women — not just because of testosterone, but also because society **reinforces** aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
 
 As a personal anecdote, I **copied some feminine behaviors even before I realized I was a woman**, just to give you an idea of how powerful this phenomenon is.
 
-To be fair, there is a definition of "woman" where trans women wouldn’t count—if you define women strictly by **chromosomes and reproduction**. But by that logic, **not all cis women would be women either!**
+To be fair, there is a definition of "woman" where trans women wouldn’t count — if you define women strictly by **chromosomes and reproduction**. But by that logic, **not all cis women would be women either!**
 
 For example, someone born with **XY chromosomes but who is intersex** might be **socialized as a woman**, develop a **typical female body**, and, if she identifies as a woman, **she is a cis woman.** She never transitioned, so no one sees her as a trans woman.
 
@@ -89,7 +89,7 @@ Also, **being intersex isn’t as rare as people think** — it affects **1.7 to
 ## Conclusion
 There are still a few misconceptions I haven’t covered, like those about trans athletes. But I feel this article is long enough, and while trans athletes are a relatively niche topic, the issue is often used as a tool to attack **all** trans people’s rights. That said, I doubt readers of this newsletter would be misled by such flawed arguments.
 
-This isn’t just a scientific debate—it’s part of an ongoing cultural war aimed at erasing us from public life and stripping away our rights. What’s at stake here are the lives of actual trans people.
+This isn’t just a scientific debate — it’s part of an ongoing cultural war aimed at erasing us from public life and stripping away our rights. What’s at stake here are the lives of actual trans people.
 
 I hope this article gave you a better understanding of the trans perspective and that you learned something new about us.
 
