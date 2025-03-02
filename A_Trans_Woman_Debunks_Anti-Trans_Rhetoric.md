@@ -1,16 +1,17 @@
 # A Trans Woman Debunks Anti-Trans Rhetoric
 
+This is a re-publication of an article I wrote for _Centre for Inquiry Canada_, which was originally [published there](https://centreforinquiry.ca/a-trans-woman-debunks-anti-trans-rhetoric/) (with the minor difference that the citations are presented differently on their website). Note also that _Centre for Inquiry Canada_ is independent from _Center for Inquiry_ (US), which I mentioned in [a previous article](CFI’s%20Downfall%20into%20Transphobia.md).
+
+![A picture of me in a park in Vancouver](youre_a_girl_images/vancouver.jpg "A picture of me in a park in Vancouver")
+
 My name is River, and I’m a trans woman (see picture). These days, anti-trans rhetoric is everywhere, and too often, these discussions happen without trans people present to challenge misconceptions and set the record straight.
 
 ## Vocabulary notes:
 
-A trans woman, short for transgender woman, is someone born with male organs but whose gender is feminine, and who transitions to live as a woman in society.
-
-Symmetrically, a trans man is someone born with female organs who transitions to live as a man.
-
-Non-binary: A term for people whose gender is outside the male/female binary. Non-binary people may identify as both, neither, or somewhere in between.
-
-The word "cis" is the opposite of the word "trans" in Latin. Therefore, a "cis woman" just means a woman who is not trans, like most women.
+* A **trans woman**, short for transgender woman, is someone born with male organs but whose gender is feminine, and who transitions to live as a woman in society.
+* Symmetrically, a **trans man** is someone born with female organs who transitions to live as a man.
+* **Non-binary**: A term for people whose gender is outside the male/female binary. Non-binary people may identify as both, neither, or somewhere in between.
+* The word "**cis**" is the opposite of the word "trans" in Latin. Therefore, a "**cis woman**" just means a woman who is not trans, like most women.
 
 In this article, I mainly discuss the experiences of trans men and trans women, but non-binary people are also trans. They face their own specific challenges, which I won’t cover here.
 
