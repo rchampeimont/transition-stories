@@ -1,6 +1,6 @@
 # A Trans Woman Debunks Anti-Trans Rhetoric
 
-This is a re-publication of an article I wrote for _Centre for Inquiry Canada_, which was originally [published there](https://centreforinquiry.ca/a-trans-woman-debunks-anti-trans-rhetoric/) (with the minor difference that the citations are presented differently on their website). Note also that _Centre for Inquiry Canada_ is independent from _Center for Inquiry_ (US), which I mentioned in [a previous article](CFI’s%20Downfall%20into%20Transphobia.md).
+This is a re-publication of an article I wrote for _Centre for Inquiry Canada_, which was originally [published there](https://centreforinquiry.ca/a-trans-woman-debunks-anti-trans-rhetoric/) (with the minor difference that the citations are presented differently on their website). Note also that _Centre for Inquiry **Canada**_ is independent from _Center for Inquiry_ (US), which I mentioned in [a previous article](CFI’s%20Downfall%20into%20Transphobia.md).
 
 ![A picture of me in a park in Vancouver](youre_a_girl_images/vancouver.jpg "A picture of me in a park in Vancouver")
 
@@ -27,10 +27,10 @@ Laws that **force people to use bathrooms based on biological sex** cause seriou
 - **Trans women are much more likely to be harassed in men’s bathrooms** [3] because:
   - They would be **the only woman (or young girl) surrounded by men**.
   - They face **an even higher risk of harassment** [5] due to transphobia, and it would be immediately obvious they are trans since they are using the "wrong" bathroom for their appearance.
-  - **It forces trans people to out themselves.** Many trans women live in **stealth mode**, meaning they let people assume they’re cis women to avoid transphobia. But these bathroom laws would force them to **out themselves every time** — since people would see them entering the men’s bathroom. And, unsurprisingly, the places pushing these laws are often the most transphobic, where being stealth is the most valuable.
-  - **It creates an easy loophole for bad actors.** A man could simply **pretend to be a trans man** and claim he’s a "biological woman" to enter women’s spaces. Since people would start seeing people who "don’t look right" in their bathrooms from time to time, **this would actually make abuse easier, not harder.**
-  - **For trans people, using the wrong bathroom is traumatizing** [6]. It’s a constant reminder that society **doesn’t believe us when we say who we are** and that we’re seen as **second-class citizens** who don’t deserve the same rights.
-  - They would create awkward situations for trans people all the time. People already challenge those who "don’t look right" in bathrooms, so trans people would constantly have to explain, **"I’m only doing this to comply with stupid laws."** The law forces you to do the opposite of expected social conventions.
+- **It forces trans people to out themselves.** Many trans women live in **stealth mode**, meaning they let people assume they’re cis women to avoid transphobia. But these bathroom laws would force them to **out themselves every time** — since people would see them entering the men’s bathroom. And, unsurprisingly, the places pushing these laws are often the most transphobic, where being stealth is the most valuable.
+- **It creates an easy loophole for bad actors.** A man could simply **pretend to be a trans man** and claim he’s a "biological woman" to enter women’s spaces. Since people would start seeing people who "don’t look right" in their bathrooms from time to time, **this would actually make abuse easier, not harder.**
+- **For trans people, using the wrong bathroom is traumatizing** [6]. It’s a constant reminder that society **doesn’t believe us when we say who we are** and that we’re seen as **second-class citizens** who don’t deserve the same rights.
+- They would create awkward situations for trans people all the time. People already challenge those who "don’t look right" in bathrooms, so trans people would constantly have to explain, **"I’m only doing this to comply with stupid laws."** The law forces you to do the opposite of expected social conventions.
 
 ## Are Kids Getting Irreversible Medical Procedures?
 
@@ -87,6 +87,7 @@ For example, someone born with **XY chromosomes but who is intersex** might be *
 Also, **being intersex isn’t as rare as people think** — it affects **1.7 to 4% of the North American population** [1], which means **between 680,000 and 1.6 million people in Canada**.
 
 ## Conclusion
+There are still a few misconceptions I haven’t covered, like those about trans athletes. But I feel this article is long enough, and while trans athletes are a relatively niche topic, the issue is often used as a tool to attack all trans people’s rights. That said, I doubt readers of this newsletter would be misled by such flawed arguments.
 
 This isn’t just a scientific debate—it’s part of an ongoing cultural war aimed at erasing us from public life and stripping away our rights. What’s at stake here are the lives of actual trans people.
 
