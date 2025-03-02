@@ -76,7 +76,7 @@ First, **most trans people go on HRT (Hormone Replacement Therapy) if they can**
 
 Second, people often assume that biology and hormones **alone** determine behavior differences between men and women. In reality, both **biology and socialization** play a role, and their exact influence is still debated in science.
 
-For example, men are typically more violent than women — not just because of testosterone, but also because society **reinforces** aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors—just like cis women do.
+For example, men are typically more violent than women — not just because of testosterone, but also because society **reinforces** aggressive behavior in men and discourages it in women [11]. We naturally adopt behaviors that are seen as “acceptable” for the gender we identify with. That’s why trans women, who identify as women, tend to pick up feminine behaviors — just like cis women do.
 
 As a personal anecdote, I **copied some feminine behaviors even before I realized I was a woman**, just to give you an idea of how powerful this phenomenon is.
 
