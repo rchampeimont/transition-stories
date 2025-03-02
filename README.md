@@ -10,5 +10,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 1. [Signs I’m Trans: Analyzing the Data!](Signs%20I’m%20Trans%20-%20Analyzing%20the%20Data.md) / [Les signes que je suis trans : une analyse des données](Les%20signes%20que%20je%20suis%20trans.md)
 1. [We are more than atheism](We%20are%20more%20than%20atheism.md)
 1. [CFI’s Downfall into Transphobia](CFI’s%20Downfall%20into%20Transphobia.md)
+1. [A Trans Woman Debunks Anti-Trans Rhetoric](A_Trans_Woman_Debunks_Anti-Trans_Rhetoric.md)
 
 Transition Stories © 2024-2025 by River Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
