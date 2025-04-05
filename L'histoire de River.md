@@ -120,7 +120,7 @@ une salle de réunion pour pleurer de joie.
 
 Plus tard dans ma transition, j’ai décidé de changer mon nom (en River
 comme vous pouvez vous en douter). J’ai [annoncé mon nouveau
-nom](https://www.thepurple.blog/post/i-m-changing-my-name) lors du
+nom](I’m%20changing%20my%20name.md) lors du
 *Transgender Day of Visibility*.
 
 Je suis reconnaissante envers RBC de m’avoir permis de changer mon nom
@@ -136,8 +136,7 @@ les pronoms féminins *she/her* \[…\]. C’était mon second coming out car
 j’avais initialement annoncé que je m’identifiais comme non-binaire (et
 que j’utilisais les pronoms *they/them*).
 
-<img src="media/image2.jpg" style="width:3.24303in;height:2.72194in"
-alt="Une image contenant arbre, plein air, personne, habits Description générée automatiquement" />
+![River marche sur un chemin en bordure de forêt par une journée ensoleillée à Vancouver. Elle porte une casquette mauve, un haut court noir, une jupe noire et un petit sac blanc en bandoulière. Elle se retourne vers l’objectif avec un léger sourire.](TDOV2025/Vancouver_small.jpg)
 
 # Libération
 
