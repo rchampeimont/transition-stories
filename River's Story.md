@@ -120,7 +120,7 @@ a trans woman and would now be using she/her pronouns \[…\]. That was my
 second “coming-out” considering I initially came out as non-binary (and
 at first switched to using they/them as pronouns).
 
-![TDOV2025/Vancouver_small.jpg](youre_a_girl_images/vancouver.jpg "River is walking along a path at the edge of a forest in Vancouver on a sunny day. She’s turning slightly toward the camera with a soft smile. She’s wearing a purple cap, a black crop top, a short black skirt, and a white shoulder bag decorated with small pins. The path is bordered by tall trees and greenery.")
+![River is walking along a path at the edge of a forest in Vancouver on a sunny day. She’s turning slightly toward the camera with a soft smile. She’s wearing a purple cap, a black crop top, a short black skirt, and a white shoulder bag decorated with small pins. The path is bordered by tall trees and greenery.](TDOV2025/Vancouver_small.jpg)
 
 ## Liberation
 
