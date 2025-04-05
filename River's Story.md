@@ -106,7 +106,7 @@ from my doctor saying I had the approval to start HRT, I went into a
 meeting room to cry.
 
 Later in my transition, I decided to change my name (to River,
-obviously). I announced my new name on the Transgender Day of
+obviously). I [announced my new name](I’m%20changing%20my%20name.md) on the Transgender Day of
 Visibility.
 
 I am thankful to RBC for allowing me to change my name (and email) in
