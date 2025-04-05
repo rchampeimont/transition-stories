@@ -1,3 +1,5 @@
+![A vibrant illustration centered around the words “TRANSGENDER LIFE” in bold, white block letters with a dark blue outline. The background features the colors of the transgender pride flag: light blue at the top and bottom, with light pink above and below a central white stripe. Surrounding the text is an arrangement of beautifully drawn flowers in pink, white, and blue hues, along with leafy branches. Several colorful butterflies flutter around the scene, adding a sense of movement and freedom. Sparkling stars and soft circular patterns give the image a magical, uplifting atmosphere.](TDOV2025/transgender_life_small.png)
+
 If you only read one article about my transition, make it this one!
 
 This is a piece I wrote for RBC’s intranet (where I work) for
