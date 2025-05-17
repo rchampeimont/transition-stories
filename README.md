@@ -1,5 +1,8 @@
 # transition-stories
+
 This a backup of my transition-related 🏳️‍⚧️ stories that can be read on my blog https://www.thepurple.blog/ 💜
+
+![An anime-style portrait of River, smiling warmly with short purple hair and a white headband. She’s wearing a soft gray dress with a black collar, hands gently folded. Behind her is a blue industrial panel labeled “AC SUPPLY,” adding a cool contrast to her calm and friendly presence.](misc_images/River_anime_small.png)
 
 1. [Waking up non-binary](Waking%20up%20non-binary.md)
 2. [I’m changing my name](I’m%20changing%20my%20name.md)
