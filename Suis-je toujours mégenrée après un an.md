@@ -1,3 +1,6 @@
+# Suis-je toujours mégenrée après un an ?
+River Champeimont, 17 mai 2025
+
 ![Portrait de River souriante dans un style anime. Elle a les cheveux violets au carré, un bandeau blanc à pois, et porte un polo gris à col noir. Elle se tient devant un panneau électrique bleu marqué "AC SUPPLY", avec des boutons colorés. L’ambiance est industrielle et calme.](gendering_stats/River_anime.png)
 
 Pendant un an, j’ai noté chaque fois qu’une personne se référait à moi
@@ -91,7 +94,7 @@ mais ce ne serait pas très intéressant pour mon analyse.
 
 # Les résultats
 
-<img src="media/image1.png" style="width:6.29966in;height:3.81944in" />
+![Graphique en courbes représentant l’évolution du genre utilisé pour parler de River, sur une période d’un an. On y voit quatre courbes : Vert pour le genre correctement utilisé (courbe principale), Orange pour les cas ambigus, Rouge pour les mégenrages, Noir pour les cas de transphobie. Les données sont lissées par sommes mobiles sur 10 jours. Le genrage correct a un niveau constant élevé tandis que le genrage ambigu et le mégenrage diminuent au cours du temps globalement.](gendering_stats/graphique.png)
 
 *Note : La courbe « correct gendering » (verte) est cette qui est
 systématiquement la plus haute.*
@@ -113,7 +116,7 @@ ensuite avoir le courage de faire un autre changement.
 Voici le même graphique mais avec les dates auxquelles j’ai fait des
 changements de mon apparence.
 
-<img src="media/image5.png" style="width:6.29966in;height:3.875in" />
+![Graphique retraçant l’évolution du genre utilisé pour parler de River, avec quatre courbes : vert pour le genre correct, rouge pour le mégenrage, orange pour les cas ambigus, noir pour la transphobie. Des annotations marquent des étapes de transition (coming out, maquillage, vêtements, chirurgie, électrolyse).](gendering_stats/graphique_avec_annotations.png)
 
 # Analyse
 
