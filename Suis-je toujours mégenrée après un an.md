@@ -6,7 +6,7 @@ River Champeimont, 17 mai 2025
 Pendant un an, j’ai noté chaque fois qu’une personne se référait à moi
 avec un genre correct ou incorrect. Je vous révèle les résultats.
 
-# L’idée
+## L’idée
 
 Tout a commencé quand j’ai fait mon coming out en tant que femme trans
 en mai 2024. J’étais déjà « out » en tant que personne trans à ce
@@ -34,7 +34,7 @@ pouvoir observer objectivement ma progression.
 incorrect, c’est-à-dire en utilisant des pronoms, accords ou termes ne
 correspondant pas au genre de la personne.*
 
-# Pourquoi je fais ça?
+## Pourquoi je fais ça?
 
 Mais pourquoi je veux être correctement genrée au fait ? Pourquoi est-ce
 important ?
@@ -54,7 +54,7 @@ non-binaires).
 personnes trans par rapport aux éléments qui ne correspondent pas à leur
 identité de genre.*
 
-# La méthode
+## La méthode
 
 J’ai alors fait la chose suivante pendant 1 an, de mai 2024 à mai 2025 :
 à chaque fois qu’une personne me genrait correctement ou me mégenrait,
@@ -92,7 +92,7 @@ qui je ne suis pas proche me perçoivent. À l’inverse, si je comptais ma
 femme par exemple, je pourrais écrire un CG « gratuit » tous les jours,
 mais ce ne serait pas très intéressant pour mon analyse.
 
-# Les résultats
+## Les résultats
 
 ![Graphique en courbes représentant l’évolution du genre utilisé pour parler de River, sur une période d’un an. On y voit quatre courbes : Vert pour le genre correctement utilisé (courbe principale), Orange pour les cas ambigus, Rouge pour les mégenrages, Noir pour les cas de transphobie. Les données sont lissées par sommes mobiles sur 10 jours. Le genrage correct a un niveau constant élevé tandis que le genrage ambigu et le mégenrage diminuent au cours du temps globalement.](gendering_stats/graphique.png)
 
@@ -118,7 +118,7 @@ changements de mon apparence.
 
 ![Graphique retraçant l’évolution du genre utilisé pour parler de River, avec quatre courbes : vert pour le genre correct, rouge pour le mégenrage, orange pour les cas ambigus, noir pour la transphobie. Des annotations marquent des étapes de transition (coming out, maquillage, vêtements, chirurgie, électrolyse).](gendering_stats/graphique_avec_annotations.png)
 
-# Analyse
+## Analyse
 
 L’anomalie du début avec les courbes « correct » et « mégenrage » toutes
 les deux très élevées correspond au coming out et à toutes les
@@ -177,7 +177,7 @@ correspondent à :
   interactions sont avec des canadiens, la **moitié** de ces occurrences
   transphobes sont avec des américains ou des français !
 
-# Le top 5
+## Le top 5
 
 Je vis dans un environnement (Toronto, Canada) où la transphobie est
 très rare. Le problème du mégenrage est donc pour moi très largement
@@ -223,7 +223,7 @@ pas :
 - Féminiser sa voix (en fait je l’ai fait en partie mais pas au point où
   ma voix est considérée comme féminine, juste moins masculine)
 
-# L’avenir
+## L’avenir
 
 J’ai fait la plupart de ces changements d’abord pour contrer ma
 dysphorie (quand je me vois dans le miroir ou en photo), et cela a eu

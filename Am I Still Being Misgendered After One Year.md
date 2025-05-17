@@ -1,4 +1,5 @@
 # Am I Still Being Misgendered After One Year?
+River Champeimont, May 17th,  2025
 
 ![Portrait of River smiling in an anime style. She has chin-length purple hair, a white polka-dotted headband, and is wearing a gray polo shirt with a black collar. She is standing in front of a blue electrical panel labeled "AC SUPPLY," with colorful buttons. The atmosphere is industrial and calm.](gendering_stats/River_anime.png)
 
