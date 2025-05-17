@@ -15,5 +15,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 9. [CFI’s Downfall into Transphobia](CFI’s%20Downfall%20into%20Transphobia.md)
 10. [A Trans Woman Debunks Anti-Trans Rhetoric](A_Trans_Woman_Debunks_Anti-Trans_Rhetoric.md)
 11. [River's Story](River's%20Story.md) / [L'histoire de River](L'histoire%20de%20River.md)
+12. [Am I Still Being Misgendered After One Year?](Am%20I%20Still%20Being%20Misgendered%20After%20One%20Year.md) / [Suis-je toujours mégenrée après un an ?](Suis-je%20toujours%20mégenrée%20après%20un%20an.md)
 
 Transition Stories © 2024-2025 by River Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
