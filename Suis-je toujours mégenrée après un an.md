@@ -145,12 +145,7 @@ Il faut voir aussi que mon visage a progressivement changé sous l’effet
 des hormones féminisantes. Voici quelques photos montrant mon évolution
 lors de la même période que mon analyse :
 
-<img src="media/image2.jpg" style="width:2.02154in;height:2.02913in"
-alt="Une image contenant personne, Visage humain, habits, cravate Le contenu généré par l’IA peut être incorrect." />
-<img src="media/image4.jpg" style="width:1.98052in;height:2.03848in"
-alt="Une image contenant personne, plein air, arbre, Visage humain Le contenu généré par l’IA peut être incorrect." />
-<img src="media/image6.jpg" style="width:2.05015in;height:2.04495in"
-alt="Une image contenant Visage humain, personne, habits, sourire Le contenu généré par l’IA peut être incorrect." />
+![Trois photos alignées montrent l'évolution de River au fil du temps. À gauche, elle porte une chemise rose sous un gilet clair, les cheveux châtains clairs, bouclés et volumineux. Au centre, elle est dehors sous les arbres, souriante, avec un bandeau blanc et une chemise blanche ornée de motifs bleus. À droite, en intérieur, elle affiche un large sourire, avec les cheveux désormais teints en violet-rouge, toujours portés avec un bandeau. Elle porte une robe à col blanc noir et blanc et un collier « She/Her ».](gendering_stats/evolution_photos.jpg)
 
 Mai 2024 / Juillet 2024 / Mai 2025
 
@@ -253,4 +248,4 @@ aussi qu’on sache que je suis trans. J’en suis fière et j’espère ainsi
 montrer que les personnes trans sont des gens avec qui on peut tout à
 fait vivre normalement et les avoir comme amies ou comme collègues.
 
-<img src="media/image7.jpg" style="width:2.71736in;height:1.5316in" />
+![Une pancarte de manifestation avec écrit SOLIDARITY - ENBIES - TRANS WOMEN - TRANS MEN](gendering_stats/pancarte.jpg)
