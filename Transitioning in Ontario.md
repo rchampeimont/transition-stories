@@ -1,6 +1,6 @@
-By River Champeimont, Nov 9th, 2024
-
 # Transitioning in Ontario, Canada: One Year In
+
+By River Champeimont, Nov 9th, 2024
 
 _It’s been a year since I began my transition, and I feel incredibly lucky to be on this side of the border. With everything going on elsewhere, I’m grateful for the supportive environment Ontario offers to trans people. Living here has made all the difference._
 
