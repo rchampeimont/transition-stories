@@ -1,8 +1,8 @@
-![The text "trans gender signs" written with the trans flag colors](trans_signs/title%20image%20small.png)
-
 # Les signes que je suis trans : une analyse des données
 
 Par River Champeimont, 21 décembre 2024
+
+![The text "trans gender signs" written with the trans flag colors](trans_signs/title%20image%20small.png)
 
 En repensant à ma vie, je réalise qu'il y avait d'innombrables signes qui indiquaient que j'étais transgenre. Certains étaient subtils, d'autres plus évidents avec le recul. Pourtant, pendant une grande partie de ma vie, je les ai soit ignorés, soit rationalisés. Maintenant qu'il est évident pour moi que je suis une femme trans, je me rends compte du nombre hallucinant d'indices et de détails qui auraient dû rendre tout ça clair, même si c'est facile de se dire ça a posteriori. Voici quelques réflexions sur ce que j’ai découvert.
 
