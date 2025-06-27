@@ -1,6 +1,6 @@
-By River Champeimont, March 31st, 2024
-
 # I’m changing my name
+
+By River Champeimont, March 31st, 2024
 
 I’m changing my name to River. Why?
 
