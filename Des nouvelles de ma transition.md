@@ -1,6 +1,6 @@
+# Des nouvelles de ma transition
 Par River Champeimont, 2 septembre 2024
 
-# Des nouvelles de ma transition
 Voici un petit article pour vous donner quelques nouvelles de ma transition.
 
 ![Moi au Stonewall National Monument, New York City](transition_news_images/stonewall.jpg)
