@@ -1,6 +1,6 @@
-By River Champeimont, February 22nd, 2025
-
 # CFI’s Downfall into Transphobia
+
+By River Champeimont, February 22nd, 2025
 
 _This article is about the Center for Inquiry, an American organization that, in theory, is dedicated to promoting humanism, skeptical thinking, science, and a rational worldview. It includes a small data analysis I conducted, showing how they have become increasingly anti-trans year after year._
 
