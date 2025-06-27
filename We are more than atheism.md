@@ -1,6 +1,6 @@
-This is an article I originally wrote for the [HAT Newsletter](https://mailchi.mp/55c9ef265127/hat-february-2025-news) and that was [published here](https://www.humanisttoronto.ca/more-than-atheism).
-
 # We are more than atheism
+
+This is an article I originally wrote for the [HAT Newsletter](https://mailchi.mp/55c9ef265127/hat-february-2025-news) and that was [published here](https://www.humanisttoronto.ca/more-than-atheism).
 
 ![Picture of me in January 2025](we_are_more_than_atheism/picture_of_River_Jan2025_small.jpg)
 
