@@ -1,6 +1,8 @@
-![Une illustration vibrante centrée autour des mots « TRANSGENDER LIFE » en lettres majuscules blanches avec un contour bleu foncé. L’arrière-plan reprend les couleurs du drapeau transgenre : bleu clair en haut et en bas, rose clair au-dessus et en dessous d’une bande blanche centrale. Autour du texte, une composition florale colorée présente des fleurs aux tons rose, blanc et bleu, accompagnées de feuilles élégantes. Plusieurs papillons aux ailes multicolores voltigent dans l’image, évoquant la liberté et la légèreté. Des étoiles scintillantes et des cercles diffus ajoutent une ambiance magique et optimiste à l’ensemble.](TDOV2025/transgender_life_small.png)
+# L’histoire de River
 
 Par River Champeimont, 31 mars 2025
+
+![Une illustration vibrante centrée autour des mots « TRANSGENDER LIFE » en lettres majuscules blanches avec un contour bleu foncé. L’arrière-plan reprend les couleurs du drapeau transgenre : bleu clair en haut et en bas, rose clair au-dessus et en dessous d’une bande blanche centrale. Autour du texte, une composition florale colorée présente des fleurs aux tons rose, blanc et bleu, accompagnées de feuilles élégantes. Plusieurs papillons aux ailes multicolores voltigent dans l’image, évoquant la liberté et la légèreté. Des étoiles scintillantes et des cercles diffus ajoutent une ambiance magique et optimiste à l’ensemble.](TDOV2025/transgender_life_small.png)
 
 Si vous ne lisez qu’un seul article sur ma transition, lisez celui-ci !
 
@@ -9,8 +11,6 @@ travaille) à l’occasion du *Transgender Day of Visibility (Journée
 internationale de visibilité transgenre)*. J’ai juste supprimé les
 quelques phrases qui révélaient des informations internes à
 l’entreprise.
-
-# L’histoire de River
 
 Être trans est quelque chose qu’on découvre à propos de soi-même, et qui
 est souvent un processus difficile. On pourrait comparer cela à avoir le
