@@ -1,6 +1,6 @@
-By River Champeimont, May 26th, 2024
-
 # “Congratulations! You're a girl!”
+
+By River Champeimont, May 26th, 2024
 
 Reflecting on my identity, I discovered I was a trans woman after all.
 
