@@ -1,9 +1,11 @@
-What Does It Feel Like to Be Trans?
+# What Does It Feel Like to Be Trans?
+
+River Champeimont, August 13th, 2025
 
 I’m sharing some intimate feelings about what it’s like to be trans
 “from the inside.”
 
-# The Strange
+## The Strange
 
 I’ve reached the point where looking at pre-transition photos doesn’t
 even feel like I’m looking at myself. If the pictures are from early in
@@ -16,7 +18,7 @@ and worst of all, I look like a man. Overall, it’s as if someone had put
 a curse on me to make me look like a completely different person—or like
 seeing myself in a funhouse mirror at an amusement park.
 
-# The Fear
+## The Fear
 
 Sometimes I wonder, “What if I was wrong?” about transitioning. I’ve
 gone so far—changing my appearance, my reputation, my legal identity.
@@ -41,7 +43,7 @@ find the exit.
 <img src="media/image1.png" style="width:2.77292in;height:1.848in"
 alt="Une image contenant croquis, dessin, Visage humain, dessin humoristique Le contenu généré par l’IA peut être incorrect." />
 
-# The Surprisingly Not Strange
+## The Surprisingly Not Strange
 
 By society’s standards, I know I have a strange body. In either a men’s
 or women’s changing room, my body wouldn’t match what people expect—I
@@ -60,7 +62,7 @@ me how much I truly love my current androgynous body.
 <img src="media/image2.png" style="width:1.95104in;height:2.336in"
 alt="Une image contenant dessin, Visage humain, croquis, vêtements de bain Le contenu généré par l’IA peut être incorrect." />
 
-# The Amazing
+## The Amazing
 
 The most amazing thing about transitioning is that I can behave in a way
 that feels natural—being “sillier” or more vulnerable, for example, than
@@ -84,7 +86,7 @@ sound like a cliché, but in my own experience, it’s absolutely true.
 <img src="media/image3.png" style="width:3.12in;height:2.07931in"
 alt="Une image contenant Dessin au trait, croquis, dessin, Dessin de nu Le contenu généré par l’IA peut être incorrect." />
 
-# The Unchanged
+## The Unchanged
 
 And finally, some things don’t change with transitioning. I still enjoy
 the same hobbies: programming, electronics, anything related to
@@ -102,7 +104,7 @@ example, ballet for a boy or car tuning for a girl). In my case, that
 didn’t happen at all. I still enjoy exactly the same things I did
 before.
 
-# Conclusion
+## Conclusion
 
 Being trans is a strange experience, and many of the specific feelings
 that come with it are hard to relate to if you’re not trans yourself.
