@@ -40,8 +40,7 @@ not—that the only way out of your misery is to embrace the very thing
 you’ve committed yourself to fighting. Maybe, in that case, you never
 find the exit.
 
-<img src="media/image1.png" style="width:2.77292in;height:1.848in"
-alt="Une image contenant croquis, dessin, Visage humain, dessin humoristique Le contenu généré par l’IA peut être incorrect." />
+![An (AI-generated) drawing in black and white of a trans woman trying to find the exit in a maze.](what_does_it_feel_like/maze.png)
 
 ## The Surprisingly Not Strange
 
