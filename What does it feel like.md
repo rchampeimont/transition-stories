@@ -58,8 +58,7 @@ compared to most people. Naked photos of me from before my transition,
 on the other hand, feel absolutely disgusting—that contrast only reminds
 me how much I truly love my current androgynous body.
 
-<img src="media/image2.png" style="width:1.95104in;height:2.336in"
-alt="Une image contenant dessin, Visage humain, croquis, vêtements de bain Le contenu généré par l’IA peut être incorrect." />
+![An (AI-generated) drawing in black and white of a trans woman in bikini, similing.](what_does_it_feel_like/bikini.png)
 
 ## The Amazing
 
@@ -82,8 +81,7 @@ transition to—means we can finally express our personality without
 distortion. Trans people often say, “I can finally be myself.” It may
 sound like a cliché, but in my own experience, it’s absolutely true.
 
-<img src="media/image3.png" style="width:3.12in;height:2.07931in"
-alt="Une image contenant Dessin au trait, croquis, dessin, Dessin de nu Le contenu généré par l’IA peut être incorrect." />
+![An (AI-generated) drawing in black and white of the famous picture &quot;The Evolution of Man&quot; but instead of changing from ape to man, it's from man to woman.](what_does_it_feel_like/evolution.png)
 
 ## The Unchanged
 
@@ -113,7 +111,6 @@ that too?” or “I felt exactly the same!” It’s a remarkably universal
 experience—full of variations, of course—but one shared within a very
 specific part of the population.
 
-<img src="media/image4.png" style="width:3.416in;height:2.27658in"
-alt="Une image contenant habits, Visage humain, sourire, dessin Le contenu généré par l’IA peut être incorrect." />
+![An (AI-generated) drawing with the same trans woman as in previous drawings, but surrounded by a group of other trans people of various genders, all smiling together.](what_does_it_feel_like/community.png)
 
 PS: I had a lot of fun using ChatGPT to create those silly images.
