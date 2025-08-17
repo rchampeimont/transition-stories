@@ -14,7 +14,7 @@ you’ve only just started transitioning.” But pre-transition photos just
 feel like they’re pictures of someone else entirely. I know logically
 they’re of me, but they look like they could be of a relative. I look
 older (even though I’m actually younger in them), I look unattractive,
-and worst of all, I look like a man. Overall, it’s as if someone had put
+and worst of all, I look like a man! Overall, it’s as if someone had put
 a curse on me to make me look like a completely different person—or like
 seeing myself in a funhouse mirror at an amusement park.
 
