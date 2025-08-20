@@ -147,7 +147,7 @@ women.
 to cis women and become similar in terms of strength after a few years
 \[3\]. This phenomenon is well-known by trans people and part of their
 transition experience, as I noticed myself. There might be some slight
-advantages or disadvantages on very specific physical capabilities. \[3,
+advantages or disadvantages on very specific physical abilities. \[3,
 8, 9, 10\]
 
 \**cis* = the opposite of *trans* (e.g. “cis women” means non-trans
