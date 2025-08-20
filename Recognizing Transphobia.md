@@ -158,8 +158,7 @@ women)
 article</u>](https://www.thepurple.blog/post/a-trans-woman-debunks-anti-trans-rhetoric)
 which digs deep into the arguments and their refutation.*
 
-<img src="media/image3.png" style="width:3.12981in;height:2.08585in"
-alt="Une image contenant Visage humain, dessin, croquis, texte Le contenu généré par l’IA peut être incorrect." />
+![Trans woman reads a newspaper titled "Gender Ideology" with a serious expression. Shirt features a transgender flag. Monochrome setting.](recognizing_transphobia/journal.png)
 
 ## Before You Go: Recognizing Transphobic Vocabulary
 
