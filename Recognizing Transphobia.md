@@ -87,8 +87,7 @@ realizing earlier that I was trans and transitioning (this is called
 that The Economist was spreading some of these false beliefs and I
 believed them, because I considered them to be a reputable source.
 
-<img src="media/image2.png" style="width:3.32788in;height:2.21785in"
-alt="Une image contenant dessin, croquis, texte, Visage humain Le contenu généré par l’IA peut être incorrect." />
+![Trans woman holds "Fight Disinformation" sign, standing confidently among a crowd with raised flags. Monochrome, determined mood.](recognizing_transphobia/sign.png)
 
 So, let’s check some common prejudices you might have about trans
 people. Here is a list of misconceptions that might intuitively seem
