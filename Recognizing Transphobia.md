@@ -33,8 +33,7 @@ But what they might really mean is “We need to ensure trans women are
 not legally recognized as women because they are the major threat
 against real \[non-trans\] women”.
 
-<img src="media/image1.png" style="width:3.3369in;height:2.22386in"
-alt="Une image contenant dessin, croquis, habits, Visage humain Le contenu généré par l’IA peut être incorrect." />
+![Illustration of a trans woman with crossed arms, looking upset. A hand points at them. They wear a shirt featuring a trans pride flag.](recognizing_transphobia/accuse.png)
 
 If you want an example, take “For Women Scotland”. You might expect them
 to be a generalist feminist organization, but if you look at their
