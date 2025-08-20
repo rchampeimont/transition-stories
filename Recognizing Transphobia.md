@@ -87,7 +87,7 @@ realizing earlier that I was trans and transitioning (this is called
 that The Economist was spreading some of these false beliefs and I
 believed them, because I considered them to be a reputable source.
 
-![Trans woman holds "Fight Disinformation" sign, standing confidently among a crowd with raised flags. Monochrome, determined mood.](recognizing_transphobia/sign.png)
+![Same trans woman holds "Fight Disinformation" sign, standing confidently among a crowd with raised flags. Monochrome, determined mood.](recognizing_transphobia/sign.png)
 
 So, let’s check some common prejudices you might have about trans
 people. Here is a list of misconceptions that might intuitively seem
@@ -158,7 +158,7 @@ women)
 article</u>](https://www.thepurple.blog/post/a-trans-woman-debunks-anti-trans-rhetoric)
 which digs deep into the arguments and their refutation.*
 
-![Trans woman reads a newspaper titled "Gender Ideology" with a serious expression. Shirt features a transgender flag. Monochrome setting.](recognizing_transphobia/journal.png)
+![Same trans woman reads a newspaper titled "Gender Ideology" with a serious expression. Shirt features a transgender flag. Monochrome setting.](recognizing_transphobia/journal.png)
 
 ## Before You Go: Recognizing Transphobic Vocabulary
 
