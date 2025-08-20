@@ -197,8 +197,7 @@ Zeitgeist as I would have explained [<u>in this article I wrote 2 years
 ago</u>](https://www.thepurple.blog/post/the-future-moral-zeitgeist)),
 which is messy and variable, and we have to fight our way there.
 
-<img src="media/image4.png" style="width:2.99108in;height:1.99339in"
-alt="Une image contenant Visage humain, sourire, habits, dessin humoristique Le contenu généré par l’IA peut être incorrect." />
+![Diverse group of people smiling, including the trans woman from other other pictures, holding a "Trans Rights Are Human Rights" sign and a pride flag. Energetic, supportive atmosphere.](recognizing_transphobia/protest.png)
 
 ## References
 
