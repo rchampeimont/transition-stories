@@ -19,5 +19,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 13. [Transitioning](Transitioning%20-%20Presentation%20June%202025.pdf) - A presentation I made for [Toronto Oasis](https://torontooasis.org/sunday-june-15th-2025-online-transitioning-what-its-like-for-trans-people/) on June 15th, 2025
 14. [My biggest transition mistake](My%20biggest%20transition%20mistake.md)
 15. [What Does It Feel Like to Be Trans?](What%20does%20it%20feel%20like.md)
+16. [Recognizing transphobia in yourself and others](Recognizing%20Transphobia.md)
 
 Transition Stories © 2024-2025 by River Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
