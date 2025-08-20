@@ -1,4 +1,6 @@
-Recognizing transphobia in yourself and others
+# Recognizing transphobia in yourself and others
+
+By River Champeimont, August 19th, 2025
 
 While the previous years have felt like we, trans people, were globally
 gaining acceptance, 2025 feels like an “Empire Strikes Back” moment. We
@@ -7,7 +9,7 @@ trans people and taking away our rights, in the UK, in the US (federal
 and many states), and even in some Canadian provinces (despite Canada
 being one of the most trans-friendly places in the world).
 
-# The TERF Trick
+## The TERF Trick
 
 You might be familiar with the logic used by anti-abortion activists who
 call themselves “pro-life”.
@@ -64,7 +66,7 @@ Do you think you won’t be tricked that easily? I’ve been baffled how
 even educated people can completely fall for the TERF trick, and not
 realize their interlocutor means “women’s rights” in the TERF sense.
 
-# Have You Been Poisoned by Transphobia?
+## Have You Been Poisoned by Transphobia?
 
 I recently read “I Shall Wear Midnight” by Terry Pratchett. In this
 fantasy story, the main character, a witch, is facing growing prejudice
@@ -161,7 +163,7 @@ which digs deep into the arguments and their refutation.*
 <img src="media/image3.png" style="width:3.12981in;height:2.08585in"
 alt="Une image contenant Visage humain, dessin, croquis, texte Le contenu généré par l’IA peut être incorrect." />
 
-# Before You Go: Recognizing Transphobic Vocabulary
+## Before You Go: Recognizing Transphobic Vocabulary
 
 A last point to be careful about is that anti-trans activists have
 developed a special vocabulary to refer to trans people in a derogatory
@@ -188,7 +190,7 @@ portray gender identity as a sexual perversion.
 
 *So don’t fall for it, and don’t use those derogatory terms!*
 
-# Conclusion
+## Conclusion
 
 For some reason, we trans people have become a focus of hate and
 disinformation, probably because gay people are now “too accepted” to be
@@ -201,7 +203,7 @@ which is messy and variable, and we have to fight our way there.
 <img src="media/image4.png" style="width:2.99108in;height:1.99339in"
 alt="Une image contenant Visage humain, sourire, habits, dessin humoristique Le contenu généré par l’IA peut être incorrect." />
 
-# References
+## References
 
 \[1\] Office for National Statistics (ONS), released 6 January 2023, ONS
 website, statistical bulletin, [<u>Gender identity, England and Wales:
