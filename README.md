@@ -20,6 +20,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 14. [My biggest transition mistake](My%20biggest%20transition%20mistake.md)
 15. [What Does It Feel Like to Be Trans?](What%20does%20it%20feel%20like.md)
 16. [Recognizing transphobia in yourself and others](Recognizing%20Transphobia.md)
-17. [Que veulent les personnes trans ?](Que%20veulent%20les%20personnes%20trans.md)
+17. [Que veulent les personnes trans ?](Que%20veulent%20les%20personnes%20trans.md) (in French)
 
 Transition Stories © 2024-2025 by River Adèle Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
