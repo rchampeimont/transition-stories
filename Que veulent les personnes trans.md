@@ -94,8 +94,7 @@ on est déjà sur ce qui se fait de mieux dans le monde pour les droits
 trans. Tout compris, cela ne m’a pris que quelques semaines pour avoir
 en poche ma pièce d’identité avec F.
 
-<img src="media/image3.png" style="width:3.656in;height:2.43653in"
-alt="Une image contenant peinture, nuage, plein air, ciel Le contenu généré par l’IA peut être incorrect." />
+![llustration générée par intelligence artificielle représentant une personne debout dans un désert infini, sur un petit oasis de verdure avec un point d’eau. La personne, de dos, lève un poing vers le ciel sombre et tient un drapeau aux couleurs transgenres (bleu, rose et blanc).](Que_veulent_les_personnes_trans/oasis.png)
 
 L’Ontario est une oasis de liberté dans un monde de transphobie
 
@@ -146,8 +145,7 @@ personnes cis. C’est un peu comme la différence entre devenir citoyenne
 d’un pays (non révocable) ou résidente (révocable sur changement de
 politique).
 
-<img src="media/image4.jpeg" style="width:3.776in;height:2.124in"
-alt="Une image contenant bougie, intérieur, table, sol Le contenu généré par l’IA peut être incorrect." />
+![Photographie d’un récipient en verre contenant des papiers en train de brûler, avec des flammes jaunes et orangées. Le récipient est posé sur une surface recouverte d’une nappe à motifs de feuilles d’automne. Autour, plusieurs bougies chauffe-plat allumées créent une ambiance rituelle ou méditative.](Que_veulent_les_personnes_trans/fire.jpg)
 
 Que notre identité passée soit laissée derrière nous !
 
@@ -169,8 +167,7 @@ binaires. Très peu de pays reconnaissent un genre non-binaire, par
 exemple seulement 3 dans toute l’Europe ! \[4\] (l’Allemagne, l’Islande
 et Malte).
 
-<img src="media/image5.jpeg" style="width:3.936in;height:2.30294in"
-alt="Une image contenant texte, capture d’écran, Police, Parallèle Le contenu généré par l’IA peut être incorrect." />
+![Photographie d’un passeport allemand ouvert sur la page d’identité. Les informations personnelles sont masquées, mais on distingue la mention 'Geschlecht / Sex / Sexe : X'.](Que_veulent_les_personnes_trans/Reisepass_X.jpg)
 
 Passeport allemand avec X comme genre –
 [CC-BY-SA](https://commons.wikimedia.org/wiki/File:Reisepass_X.jpg)
