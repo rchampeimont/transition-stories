@@ -14,8 +14,7 @@ dansait à nouveau. À partir de là elle était considérée comme une femme,
 et ce malgré l’absence d’hormones féminisantes ou de chirurgie génitale
 \[1, 2\].
 
-<img src="media/image1.jpeg" style="width:2.17142in;height:3.12in"
-alt="Une image contenant habits, Visage humain, personne, chaussures Le contenu généré par l’IA peut être incorrect." />
+![Photographie ancienne en sépia montrant Osh-Tisch (à gauche), une femme trans du peuple des Crows, assise aux côtés d’une autre personne. Elle porte une robe à motifs fleuris et des colliers traditionnels.](Que_veulent_les_personnes_trans/Osh-Tisch.jpg)
 
 Osh-Tisch (à gauche), une femme trans\* du peule des Crows (corbeaux),
 état reconnue par sa tribu comme une femme et ses exploits guerriers
@@ -74,8 +73,7 @@ changements médicaux imposent donc en pratique un mal-être permanent aux
 personnes trans dans leurs interactions avec de nombreux commerces et
 administrations.
 
-<img src="media/image2.png" style="width:3.696in;height:2.46318in"
-alt="Une image contenant texte, Produit en papier, Police, papier Le contenu généré par l’IA peut être incorrect." />
+![Image générée par intelligence artificielle montrant plusieurs cartes posées sur une table en bois : un permis de conduire français au nom de River, une carte de santé au même nom, une carte bancaire Visa bleue avec River inscrit, et une carte blanche avec simplement le prénom River.](Que_veulent_les_personnes_trans/papers.png)
 
 Le Graal de la transition légale
 
