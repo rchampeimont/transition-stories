@@ -126,8 +126,7 @@ legal name, I had a different gender-neutral name to call myself
 so now for the first time in my life my “internal name” matches my
 external one.
 
-<img src="media/image3.jpeg" style="width:3.76437in;height:2.37346in"
-alt="Une image contenant texte, Post-it, écriture manuscrite, Propriété matérielle Le contenu généré par l’IA peut être incorrect." />
+![A name sign in an office saying "River Champeimont (she/her)"](scientific_transphobia/name_sign.jpg)
 
 I now have the same name inside my head and outside
 
