@@ -1,5 +1,7 @@
 # Scientific transphobia
 
+By River Champeimont, October 12th, 2025
+
 Does gender even exist? Let’s talk about this common fallacy in the
 skeptic community.
 
