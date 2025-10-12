@@ -21,5 +21,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 15. [What Does It Feel Like to Be Trans?](What%20does%20it%20feel%20like.md)
 16. [Recognizing transphobia in yourself and others](Recognizing%20Transphobia.md)
 17. [Que veulent les personnes trans ?](Que%20veulent%20les%20personnes%20trans.md) (in French)
+18. [Scientific transphobia](Scientific%20transphobia.md)
 
 Transition Stories © 2024-2025 by River Adèle Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
