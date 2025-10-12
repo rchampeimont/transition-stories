@@ -32,8 +32,7 @@ following reasoning in their minds:
     related to gendered spaces, sports etc. should be based on sex and
     not on gender, contrary to what trans rights activists want.
 
-<img src="media/image1.jpeg" style="width:2.17497in;height:3.15685in"
-alt="Une image contenant texte, mur, art, intérieur Le contenu généré par l’IA peut être incorrect." />
+![A women's washroom sign saying explicitly "Everyone who identifies as a woman may use this space"](scientific_transphobia/washroom.jpg)
 
 What is often contested by trans rights skeptics
 
@@ -105,8 +104,7 @@ accept their sex as corresponding to their gender. Whether we were born
 with it, or it developed in the womb or during childhood, it’s an
 intrinsic and unchangeable part of us.
 
-<img src="media/image2.jpeg" style="width:4.23478in;height:2.3886in"
-alt="Une image contenant texte, écriture manuscrite, plein air, plante Le contenu généré par l’IA peut être incorrect." />
+![A painted protest sign saying "I was a trans kid now I'm a trans adult"](scientific_transphobia/pride_sign.jpg)
 
 The sign I was holding for the Pride March 2025
 
