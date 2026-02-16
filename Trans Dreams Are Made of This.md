@@ -4,6 +4,7 @@ By River Champeimont, February 15th, 2026
 ![A close-up image shows a silver nameplate necklace resting on a dark, textured surface. The chain stretches from both sides toward the center, where a shiny pendant spells “RIVER” in bold capital letters. Beneath the name, decorative symmetrical swirls extend outward, with a small heart shape in the middle. The polished metal reflects light, making the letters and heart gleam against the dark background.](dreams/necklace_River_small.jpg)
  
 I would like to share a surprising fact that I discovered while transitioning about the gender I am in my dreams. I don’t know if this is a universal experience for trans people, but I found it surprising enough that I would write about it.
+
 Since I started transitioning, I took a note of every dream I had in which I was conscious of my own gender. I was able to take note of 28 occurrences that I wrote in a notebook when I woke up from a dream. Sometimes it was painful to force myself to get up, write my notes, before going back to the comfort of my bed, but I know I would otherwise have forgotten the memory in the morning. Luckily, sometimes I just woke up in the morning with the memory of a dream.
 
 ## Always a woman or girl
