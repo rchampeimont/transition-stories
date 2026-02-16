@@ -155,7 +155,7 @@ sex!
 
 ## Notes and References
 
-See also this talk by Sarah Coudert and me where we go deeper in the
+See also this talk by Rose and I where we go deeper in the
 subject of transphobic scientists: [When Reason Fails Us: Bigotry,
 Transphobia, and the Crisis of Humanist
 Integrity](https://www.youtube.com/watch?v=aAEoy9k9cwM) (on YouTube)
