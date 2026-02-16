@@ -11,11 +11,15 @@ Since I started transitioning, I took a note of every dream I had in which I was
 First, very strikingly, I am always a woman or girl every single time. I have never dreamt of myself as a man or a non-binary person since I started transitioning.
 
 Then, I dream of myself at many different stages in life: as an adult woman, as a teenage girl or as a young girl. Something interesting to note is that since I transitioned as an adult, I never actually lived as a girl when I was a child or teenager. However, in those dreams, I see myself as a girl, and never as a boy, even though that was the gender I was living as at that age. It seems to suggest that what matters is how I see myself now and my true gender, not which gender I lived as when I was that age, like you could expect if it was based on real childhood memories. 
- 
+
+![A pie chart titled “My age in my dreams” shows three categories: adult woman, teenager girl, and young girl. The largest portion of the chart, shown in green and taking up most of the circle, represents “Adult woman.” A smaller blue slice represents “Teenager girl,” and an even smaller yellow slice represents “Young girl.”](dreams/age_in_my_dreams_small.png)
+
 ## Do I know I’m trans?
 
 In most of my dreams, I am fully conscious of being a trans woman/girl. In some rare cases, I don’t dream of myself as trans, but I might know I’m a lesbian in the dream, which corresponds to my sexual and romantic orientation in real life. This is typically in dreams that involve me meeting other women and being attracted to them.
- 
+
+![A pie chart titled “Conscious of being trans?” shows three categories: Yes, No but lesbian, and No (unknown orientation). The vast majority of the circle is a large yellow section labeled “Yes.” A small pink slice represents “No but lesbian,” and an even smaller blue slice represents “No (unknown orientation).”](dreams/trans_in_my_dreams_small.png)
+
 You might notice that by combining the information from the two diagrams and considering the slice sizes, it implies that I have some dreams where I’m a trans child or teenager. But isn’t that surprising since I transitioned as an adult? These dreams don’t correspond to any real time frame where I lived as my true gender, they would be alternative realities in which I transitioned much earlier in my life.
 
 Examples of these dreams are for instance me being embarrassed undressing in front of other girls at the swimming pool at the school, with them being supportive and helping me put on my bikini. In another dream, that’s me seeing the line in front of the girl’s bathroom and thinking “what if I went to the boys’ like before transitioning?” and then thinking “that’s silly”. In the “lore” of those dreams, it’s very clear that the assumption is that I transitioned as a young girl or teenager.
