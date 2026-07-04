@@ -1,7 +1,7 @@
 # Fighting for your name
 By River Champeimont, June 1st, 2026
 
-<img src="media/image1.jpeg" style="width:6.53194in;height:4.35347in" />
+![A cartoon shows a determined young woman wearing a shirt with a transgender symbol. She is pulling on a long chain of papers labeled “deadname,” as if trying to remove a huge pile of outdated documents connected to her former name.](name_change_fight/abstract.png)
 
 One of the hardest and most frustrating aspects of my gender transition
 was changing my name, not because of the legal difficulty (in Ontario
@@ -32,7 +32,7 @@ name and gender, even if you emigrated under your deadname and incorrect
 gender. On the day of the citizenship ceremony, I was therefore given
 the certificate below with my correct name and gender!
 
-<img src="media/image2.jpeg" style="width:6.53194in;height:2in" />
+![A photograph of part of a Canadian citizenship certificate. The certificate prominently displays the name “River Adèle Champeimont” beneath bilingual English and French headings.](name_change_fight/citizen.jpg)
 
 This means a lot to me, because it allows me to finally have a passport
 with my true gender and name!
