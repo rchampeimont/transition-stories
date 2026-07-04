@@ -23,5 +23,6 @@ This a backup of my transition-related 🏳️‍⚧️ stories that can be read
 17. [Que veulent les personnes trans ?](Que%20veulent%20les%20personnes%20trans.md) (in French)
 18. [Scientific transphobia](Scientific%20transphobia.md)
 19. [Trans Dreams Are Made of This](Trans%20Dreams%20Are%20Made%20of%20This.md)
+20. [Fighting for your name](Fighting%20for%20your%20name.md)
 
 Transition Stories © 2024-2026 by River Adèle Champeimont is licensed under [Creative Commons Attribution 4.0 International](LICENSE.txt)
