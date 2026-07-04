@@ -46,7 +46,7 @@ For instance, the email below reads “Dear Mrs. River Champeimont, your
 flight tickets are attached”. Until I got my Canadian passport, I got
 misgendered and deadnamed in those.
 
-<img src="media/image3.png" style="width:6.53194in;height:1.55556in" />
+![A screenshot of an Air France email in French. The message is addressed to “Madame River Champeimont” and says that her airline tickets are attached, using her current name.](name_change_fight/AF.png)
 
 ## Successes
 
@@ -143,7 +143,7 @@ my PhD manuscript:
   players.](https://www.sciencedirect.com/science/article/pii/S0360319912026079) International
   Journal of Hydrogen Energy, **2013**, 38 (4), pp.1866-1872.
 
-<img src="media/image4.jpeg" style="width:3.904in;height:2.19564in" />
+![A photograph of the cover page of a bound doctoral thesis from Pierre and Marie Curie University (now part of Sorbonne University). The cover is in French and lists the field as Computer Science. The author’s name, “River Champeimont,” appears prominently in the center, above text stating that the thesis was submitted for the degree of Doctor of Pierre and Marie Curie University.](name_change_fight/PhD.jpg)
 
 ## Tricks
 
@@ -167,8 +167,7 @@ because I feel celebrated as my true self, while in the past I was
 trying to hide myself because I would be celebrated as a fake version of
 me (for instance I never went to my PhD graduation ceremony).
 
-<img src="media/image5.jpeg" style="width:3.1078in;height:1.75281in" />
-<img src="media/image6.jpeg" style="width:3.144in;height:1.74927in" />
+![A close-up photo of a conference name badge for the “Bill 7 Award 2SLGBTQI+ Scholarships.” The badge displays the name “River Champeimont.”, and a flower bed filled with red and white flowers in a park. A sign behind the flowers states that the garden bed is sponsored by “River Champeimont.”](name_change_fight/bill7_and_flowers.jpg)
 
 ## Next steps
 
