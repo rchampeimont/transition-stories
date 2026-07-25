@@ -1,6 +1,6 @@
 # Dressing as a Trans Woman
 
-By River Champeimont, Jul 3rd, 2026
+By River Champeimont, July 3rd, 2026
 
 As a transgender woman, one of the challenges I face is how to dress. There are two main issues I faced: the need to be read as my correct gender, and the need to find clothes that fit my trans body.
 
