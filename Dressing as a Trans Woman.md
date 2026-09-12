@@ -16,7 +16,7 @@ The challenge was what to do in the winter though, with winter in Toronto having
 
 ### Tops
 
-One of the specific challenges with tops for trans woman is we often have large shoulders, specifically for those of use who went through male puberty. Counter-intuitively, although I'm a thin woman, I have to shop sizes that are meant for plus-size women (2XL or more). This is especially surprising to people who want to buy me clothes and would assume my size would be M/L, while in fact most regular stores would not have sizes large enough for me (or just enough with their biggest available size). Cis people who would try to buy me clothes would always get it wrong.
+One of the specific challenges with tops for trans women is we often have large shoulders, specifically for those of us who went through male puberty. Counter-intuitively, although I'm a thin woman, I have to shop sizes that are meant for plus-size women (2XL or more). This is especially surprising to people who want to buy me clothes and would assume my size would be M/L, while in fact most regular stores would not have sizes large enough for me (or just enough with their biggest available size). Cis people who would try to buy me clothes would always get it wrong.
 
 Another note here is I don't wear t-shirts at all (they are the pants of tops!). I want all my clothes to scream femininity, and as such every piece of outfit I have has to read as typically feminine.
 
@@ -34,7 +34,7 @@ Looking feminine in the summer is easy
 
 Shoes have for many years been a massive frustration for me. I always said that shoe stores have two sections, the one where I don't want to buy shoes, and the one where I can't. In the men's shoes section, I would have a average foot size. However, in the women's section, I would typically not find my size (11.5 US / 43 European).
 
-But here is the trick I found: Both Converse and Vans allow to customize shoes, where every element's color can be selected freely. This has allowed me to make shoes that are my size and look like very stereotypically feminine.
+But here is the trick I found: Both Converse and Vans allow to customize shoes, where every element's color can be selected freely. This has allowed me to make shoes that are my size and look very stereotypically feminine.
 
 ![A pair of low-top sneakers inspired by the trans pride flag, with pink, white, and light blue side panels, purple toe caps, and pink laces.](dressing/shoes.jpg)
 
